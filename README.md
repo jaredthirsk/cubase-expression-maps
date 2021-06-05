@@ -3,7 +3,7 @@ Expression Maps for Cubase
 
 These are some Cubase expression maps (articulations) I put together for myself for Vienna Symphonic Library.  
 
-These are time consuming to make so if I can help others avoid having to do this, I am happy to share with no strings attached.  If you're really grateful for this, you can                     [buy me a coffee](buymeacoffee.com/jaredthirsk).
+These are time consuming to make so if I can help others avoid having to do this, I am happy to share with no strings attached.  If you're really grateful for this, you can                     [buy me a coffee](https://www.buymeacoffee.com/jaredthirsk).
 
 [![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/jaredthirsk)
 
