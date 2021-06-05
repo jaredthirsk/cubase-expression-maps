@@ -33,7 +33,7 @@ Heads up: I'm on an old version of Cubase at the moment: 6.0.7.  (I don't know o
  - SY Synchron - recorded for Synchron player
  - SYd Synchronized - recorded for Vienna Instruments and converted for Synchron player
  - SYE - Synchron Elite Strings
- - SYE - Synchron Strings Pro
+ - SYP - Synchron Strings Pro
  - VI - Vienna Instruments
 
 ## How to design these?
