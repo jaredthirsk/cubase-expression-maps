@@ -15,7 +15,7 @@ My next focus: Solo Strings, Strings Pro, Elite Strings.
 I've done more than this status table indicates, but best to assume the worst.
 
 |     | Series | Instrument | Size | Status |
---- | --- | --- |:---:| --:|
+--- | --- | --- |:---:| :--:|
 | SYd | Solo Strings | Violin            | 1 | |
 | SYd | Solo Strings | Viola            | 1 |  |
 | SYd | Solo Strings | Cello            | 1 | ... |
