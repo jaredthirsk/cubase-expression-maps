@@ -220,6 +220,38 @@
             <string name="description" value="no bow change" wide="true"/>
             <int name="group" value="0"/>
          </obj>
+         <obj class="USlotVisuals" ID="5480178864">
+            <int name="displaytype" value="1"/>
+            <int name="articulationtype" value="1"/>
+            <int name="symbol" value="73"/>
+            <string name="text" value="sul D" wide="true"/>
+            <string name="description" value="sul D" wide="true"/>
+            <int name="group" value="1"/>
+         </obj>
+         <obj class="USlotVisuals" ID="5480179824">
+            <int name="displaytype" value="1"/>
+            <int name="articulationtype" value="1"/>
+            <int name="symbol" value="73"/>
+            <string name="text" value="sul A" wide="true"/>
+            <string name="description" value="sul A" wide="true"/>
+            <int name="group" value="1"/>
+         </obj>
+         <obj class="USlotVisuals" ID="5480179184">
+            <int name="displaytype" value="1"/>
+            <int name="articulationtype" value="1"/>
+            <int name="symbol" value="73"/>
+            <string name="text" value="sul G" wide="true"/>
+            <string name="description" value="sul G" wide="true"/>
+            <int name="group" value="1"/>
+         </obj>
+         <obj class="USlotVisuals" ID="14219627664">
+            <int name="displaytype" value="1"/>
+            <int name="articulationtype" value="1"/>
+            <int name="symbol" value="73"/>
+            <string name="text" value="sul C" wide="true"/>
+            <string name="description" value="sul C" wide="true"/>
+            <int name="group" value="1"/>
+         </obj>
          <obj class="USlotVisuals" ID="761979248">
             <int name="displaytype" value="1"/>
             <int name="articulationtype" value="1"/>
@@ -315,6 +347,14 @@
             <string name="text" value="dimuendo" wide="true"/>
             <string name="description" value="dimuendo" wide="true"/>
             <int name="group" value="1"/>
+         </obj>
+         <obj class="USlotVisuals" ID="14227388720">
+            <int name="displaytype" value="1"/>
+            <int name="articulationtype" value="1"/>
+            <int name="symbol" value="73"/>
+            <string name="text" value="accelerando" wide="true"/>
+            <string name="description" value="accelerando" wide="true"/>
+            <int name="group" value="2"/>
          </obj>
          <obj class="USlotVisuals" ID="761993968">
             <int name="displaytype" value="1"/>
@@ -629,7 +669,7 @@
                      <string name="description" value="normal3" wide="true"/>
                      <int name="group" value="2"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14219183632">
+                  <obj class="USlotVisuals" ID="14227396240">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="43"/>
@@ -1202,7 +1242,7 @@
                      <string name="description" value="legato" wide="true"/>
                      <int name="group" value="0"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14219185552">
+                  <obj class="USlotVisuals" ID="14227387440">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="43"/>
@@ -1538,7 +1578,7 @@
                      <string name="description" value="trills" wide="true"/>
                      <int name="group" value="0"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14219186192">
+                  <obj class="USlotVisuals" ID="14227392720">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="43"/>
@@ -1874,7 +1914,7 @@
                      <string name="description" value="marcato" wide="true"/>
                      <int name="group" value="0"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14219178512">
+                  <obj class="USlotVisuals" ID="14227388560">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="43"/>
@@ -2438,7 +2478,7 @@
                      <string name="description" value="Sforzato" wide="true"/>
                      <int name="group" value="0"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14227398640">
+                  <obj class="USlotVisuals" ID="14219632144">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -2522,7 +2562,7 @@
                      <string name="description" value="fp" wide="true"/>
                      <int name="group" value="0"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14227400400">
+                  <obj class="USlotVisuals" ID="14219634864">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -2606,7 +2646,7 @@
                      <string name="description" value="detache" wide="true"/>
                      <int name="group" value="0"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14227400720">
+                  <obj class="USlotVisuals" ID="14219640624">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -2706,7 +2746,7 @@
                      <string name="description" value="detache" wide="true"/>
                      <int name="group" value="0"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14227397360">
+                  <obj class="USlotVisuals" ID="14219635664">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -2806,7 +2846,7 @@
                      <string name="description" value="detache" wide="true"/>
                      <int name="group" value="0"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14227402160">
+                  <obj class="USlotVisuals" ID="14219634704">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -2906,7 +2946,7 @@
                      <string name="description" value="detache" wide="true"/>
                      <int name="group" value="0"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14227395280">
+                  <obj class="USlotVisuals" ID="14219637744">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -3006,7 +3046,7 @@
                      <string name="description" value="detache" wide="true"/>
                      <int name="group" value="0"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14227397520">
+                  <obj class="USlotVisuals" ID="14219639824">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -3106,7 +3146,7 @@
                      <string name="description" value="detache" wide="true"/>
                      <int name="group" value="0"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14227402320">
+                  <obj class="USlotVisuals" ID="14219635984">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -3122,7 +3162,7 @@
                      <string name="description" value="strong" wide="true"/>
                      <int name="group" value="2"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14219185712">
+                  <obj class="USlotVisuals" ID="14227393200">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="43"/>
@@ -3206,7 +3246,7 @@
                      <string name="description" value="detache" wide="true"/>
                      <int name="group" value="0"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14227396880">
+                  <obj class="USlotVisuals" ID="14219637104">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -3306,7 +3346,7 @@
                      <string name="description" value="detache" wide="true"/>
                      <int name="group" value="0"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14227395760">
+                  <obj class="USlotVisuals" ID="14219631024">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -3406,7 +3446,7 @@
                      <string name="description" value="detache" wide="true"/>
                      <int name="group" value="0"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14227388240">
+                  <obj class="USlotVisuals" ID="14219639504">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -3422,7 +3462,7 @@
                      <string name="description" value="strong" wide="true"/>
                      <int name="group" value="2"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14219180752">
+                  <obj class="USlotVisuals" ID="14227390800">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="43"/>
@@ -3506,7 +3546,7 @@
                      <string name="description" value="detache" wide="true"/>
                      <int name="group" value="0"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14227389520">
+                  <obj class="USlotVisuals" ID="14219637904">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -3769,7 +3809,7 @@
                      <string name="description" value="pizzicato" wide="true"/>
                      <int name="group" value="0"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14219183792">
+                  <obj class="USlotVisuals" ID="14227395920">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="43"/>
@@ -4494,7 +4534,7 @@
             <member name="sv">
                <int name="ownership" value="2"/>
                <list name="obj" type="obj">
-                  <obj class="USlotVisuals" ID="762016848">
+                  <obj class="USlotVisuals" ID="14231756720">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -4586,7 +4626,7 @@
             <member name="sv">
                <int name="ownership" value="2"/>
                <list name="obj" type="obj">
-                  <obj class="USlotVisuals" ID="762019568">
+                  <obj class="USlotVisuals" ID="14231755280">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -4891,7 +4931,7 @@
                      <string name="description" value="legato" wide="true"/>
                      <int name="group" value="0"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14227399760">
+                  <obj class="USlotVisuals" ID="14219634224">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -4996,7 +5036,7 @@
                      <string name="description" value="legato" wide="true"/>
                      <int name="group" value="0"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14227395440">
+                  <obj class="USlotVisuals" ID="14219635024">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -5301,7 +5341,7 @@
                      <string name="description" value="legato" wide="true"/>
                      <int name="group" value="0"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14227397680">
+                  <obj class="USlotVisuals" ID="14219637424">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -5406,7 +5446,7 @@
                      <string name="description" value="legato" wide="true"/>
                      <int name="group" value="0"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14227389680">
+                  <obj class="USlotVisuals" ID="14219631664">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -5695,7 +5735,7 @@
                      <string name="description" value="portato" wide="true"/>
                      <int name="group" value="0"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14227399920">
+                  <obj class="USlotVisuals" ID="14219636624">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -5792,7 +5832,7 @@
                      <string name="description" value="portato" wide="true"/>
                      <int name="group" value="0"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14227391760">
+                  <obj class="USlotVisuals" ID="14219631984">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -6073,7 +6113,7 @@
                      <string name="description" value="staccato" wide="true"/>
                      <int name="group" value="0"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14227400880">
+                  <obj class="USlotVisuals" ID="14219634384">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -6170,7 +6210,7 @@
                      <string name="description" value="staccato" wide="true"/>
                      <int name="group" value="0"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14227387120">
+                  <obj class="USlotVisuals" ID="14219635184">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -6278,7 +6318,7 @@
                      <string name="description" value="multi-short" wide="true"/>
                      <int name="group" value="2"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14219183152">
+                  <obj class="USlotVisuals" ID="14227389040">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="43"/>
@@ -6378,7 +6418,7 @@
                      <string name="description" value="multi-short" wide="true"/>
                      <int name="group" value="2"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14219178672">
+                  <obj class="USlotVisuals" ID="14227394480">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="43"/>
@@ -6467,7 +6507,7 @@
                      <string name="description" value="spiccato" wide="true"/>
                      <int name="group" value="0"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14227398160">
+                  <obj class="USlotVisuals" ID="14219634544">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -6483,7 +6523,7 @@
                      <string name="description" value="multi-short" wide="true"/>
                      <int name="group" value="2"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14219178832">
+                  <obj class="USlotVisuals" ID="14227388880">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="43"/>
@@ -6572,7 +6612,7 @@
                      <string name="description" value="spiccato" wide="true"/>
                      <int name="group" value="0"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14227388400">
+                  <obj class="USlotVisuals" ID="14219638064">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -6588,7 +6628,7 @@
                      <string name="description" value="multi-short" wide="true"/>
                      <int name="group" value="2"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14219184432">
+                  <obj class="USlotVisuals" ID="14227390160">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="43"/>
@@ -6877,7 +6917,7 @@
                      <string name="description" value="spiccato" wide="true"/>
                      <int name="group" value="0"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14227401200">
+                  <obj class="USlotVisuals" ID="14219632464">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -6982,7 +7022,7 @@
                      <string name="description" value="spiccato" wide="true"/>
                      <int name="group" value="0"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14227391600">
+                  <obj class="USlotVisuals" ID="14219638864">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -7090,7 +7130,7 @@
                      <string name="description" value="normal3" wide="true"/>
                      <int name="group" value="2"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14219181872">
+                  <obj class="USlotVisuals" ID="14227394960">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="43"/>
@@ -7182,7 +7222,7 @@
                      <string name="description" value="fast attack" wide="true"/>
                      <int name="group" value="2"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14219186032">
+                  <obj class="USlotVisuals" ID="14227390000">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="43"/>
@@ -7274,7 +7314,7 @@
                      <string name="description" value="fast attack" wide="true"/>
                      <int name="group" value="2"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="8677530896">
+                  <obj class="USlotVisuals" ID="14219647184">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -7450,7 +7490,7 @@
                      <string name="description" value="long2" wide="true"/>
                      <int name="group" value="1"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14219184112">
+                  <obj class="USlotVisuals" ID="14227392560">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="43"/>
@@ -7547,7 +7587,7 @@
                      <string name="description" value="long2" wide="true"/>
                      <int name="group" value="1"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="8677524816">
+                  <obj class="USlotVisuals" ID="14219645264">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -7644,7 +7684,7 @@
                      <string name="description" value="long2" wide="true"/>
                      <int name="group" value="1"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14219185392">
+                  <obj class="USlotVisuals" ID="14227395120">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="43"/>
@@ -7741,7 +7781,7 @@
                      <string name="description" value="long2" wide="true"/>
                      <int name="group" value="1"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="8677526896">
+                  <obj class="USlotVisuals" ID="14219644144">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -7838,7 +7878,7 @@
                      <string name="description" value="long2" wide="true"/>
                      <int name="group" value="1"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14219183472">
+                  <obj class="USlotVisuals" ID="14227386640">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="43"/>
@@ -7935,7 +7975,7 @@
                      <string name="description" value="long2" wide="true"/>
                      <int name="group" value="1"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="8677525776">
+                  <obj class="USlotVisuals" ID="14219648144">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -8032,7 +8072,7 @@
                      <string name="description" value="long2" wide="true"/>
                      <int name="group" value="1"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14219180912">
+                  <obj class="USlotVisuals" ID="14227396400">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="43"/>
@@ -8129,7 +8169,7 @@
                      <string name="description" value="long2" wide="true"/>
                      <int name="group" value="1"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="8677530576">
+                  <obj class="USlotVisuals" ID="14219648304">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -8226,7 +8266,7 @@
                      <string name="description" value="long2" wide="true"/>
                      <int name="group" value="1"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14219182032">
+                  <obj class="USlotVisuals" ID="14227387600">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="43"/>
@@ -8323,7 +8363,7 @@
                      <string name="description" value="long2" wide="true"/>
                      <int name="group" value="1"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="8677532656">
+                  <obj class="USlotVisuals" ID="14219649424">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -8420,7 +8460,7 @@
                      <string name="description" value="short2" wide="true"/>
                      <int name="group" value="1"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14219195536">
+                  <obj class="USlotVisuals" ID="14227387920">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="43"/>
@@ -8517,7 +8557,7 @@
                      <string name="description" value="short2" wide="true"/>
                      <int name="group" value="1"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="8677526416">
+                  <obj class="USlotVisuals" ID="14219649744">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -8614,7 +8654,7 @@
                      <string name="description" value="short2" wide="true"/>
                      <int name="group" value="1"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14219192336">
+                  <obj class="USlotVisuals" ID="14227388080">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="43"/>
@@ -8711,7 +8751,7 @@
                      <string name="description" value="short2" wide="true"/>
                      <int name="group" value="1"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="8677527216">
+                  <obj class="USlotVisuals" ID="14219649904">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -8808,7 +8848,7 @@
                      <string name="description" value="short2" wide="true"/>
                      <int name="group" value="1"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14219192496">
+                  <obj class="USlotVisuals" ID="14227389200">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="43"/>
@@ -8905,7 +8945,7 @@
                      <string name="description" value="short2" wide="true"/>
                      <int name="group" value="1"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="8677532336">
+                  <obj class="USlotVisuals" ID="14219652944">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -9002,7 +9042,7 @@
                      <string name="description" value="short2" wide="true"/>
                      <int name="group" value="1"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14219190736">
+                  <obj class="USlotVisuals" ID="14227391440">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="43"/>
@@ -9099,7 +9139,7 @@
                      <string name="description" value="short2" wide="true"/>
                      <int name="group" value="1"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="8677529776">
+                  <obj class="USlotVisuals" ID="14219651984">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -9196,7 +9236,7 @@
                      <string name="description" value="short2" wide="true"/>
                      <int name="group" value="1"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14219195376">
+                  <obj class="USlotVisuals" ID="14227392880">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="43"/>
@@ -9293,7 +9333,7 @@
                      <string name="description" value="short2" wide="true"/>
                      <int name="group" value="1"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="8677526736">
+                  <obj class="USlotVisuals" ID="14219652464">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -9382,7 +9422,7 @@
                      <string name="description" value="140bpm" wide="true"/>
                      <int name="group" value="0"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14227398320">
+                  <obj class="USlotVisuals" ID="14219638224">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -9471,7 +9511,7 @@
                      <string name="description" value="140bpm" wide="true"/>
                      <int name="group" value="0"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14227394160">
+                  <obj class="USlotVisuals" ID="14219638384">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -9532,7 +9572,7 @@
                      <string name="description" value="150bpm" wide="true"/>
                      <int name="group" value="0"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14227391920">
+                  <obj class="USlotVisuals" ID="14219635824">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -9593,7 +9633,7 @@
                      <string name="description" value="150bpm" wide="true"/>
                      <int name="group" value="0"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14227390640">
+                  <obj class="USlotVisuals" ID="14219638544">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -9654,7 +9694,7 @@
                      <string name="description" value="160bpm" wide="true"/>
                      <int name="group" value="0"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14227393520">
+                  <obj class="USlotVisuals" ID="14219631824">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -9715,7 +9755,7 @@
                      <string name="description" value="160bpm" wide="true"/>
                      <int name="group" value="0"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14227396560">
+                  <obj class="USlotVisuals" ID="14219639184">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -9776,7 +9816,7 @@
                      <string name="description" value="170bpm" wide="true"/>
                      <int name="group" value="0"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14227396080">
+                  <obj class="USlotVisuals" ID="14219636144">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -9837,7 +9877,7 @@
                      <string name="description" value="170bpm" wide="true"/>
                      <int name="group" value="0"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14227394320">
+                  <obj class="USlotVisuals" ID="14219639344">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -9898,7 +9938,7 @@
                      <string name="description" value="180bpm" wide="true"/>
                      <int name="group" value="0"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14227399600">
+                  <obj class="USlotVisuals" ID="14219630864">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -9959,7 +9999,7 @@
                      <string name="description" value="180bpm" wide="true"/>
                      <int name="group" value="0"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14227396720">
+                  <obj class="USlotVisuals" ID="14219639664">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -10056,7 +10096,7 @@
                      <string name="description" value="riccochet" wide="true"/>
                      <int name="group" value="1"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14219183312">
+                  <obj class="USlotVisuals" ID="14227390320">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="43"/>
@@ -10153,7 +10193,7 @@
                      <string name="description" value="riccochet" wide="true"/>
                      <int name="group" value="1"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="8677526096">
+                  <obj class="USlotVisuals" ID="14219653104">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -10250,7 +10290,7 @@
                      <string name="description" value="riccochet" wide="true"/>
                      <int name="group" value="1"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14219184752">
+                  <obj class="USlotVisuals" ID="14227390480">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="43"/>
@@ -10347,7 +10387,7 @@
                      <string name="description" value="riccochet" wide="true"/>
                      <int name="group" value="1"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="8677526576">
+                  <obj class="USlotVisuals" ID="14219651664">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -10444,7 +10484,7 @@
                      <string name="description" value="riccochet" wide="true"/>
                      <int name="group" value="1"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14219179152">
+                  <obj class="USlotVisuals" ID="14227392080">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="43"/>
@@ -10541,7 +10581,7 @@
                      <string name="description" value="riccochet" wide="true"/>
                      <int name="group" value="1"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="8677525936">
+                  <obj class="USlotVisuals" ID="14219652624">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -10638,7 +10678,7 @@
                      <string name="description" value="riccochet" wide="true"/>
                      <int name="group" value="1"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14219184912">
+                  <obj class="USlotVisuals" ID="14227393040">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="43"/>
@@ -10735,7 +10775,7 @@
                      <string name="description" value="riccochet" wide="true"/>
                      <int name="group" value="1"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="8677529296">
+                  <obj class="USlotVisuals" ID="14219651504">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -10832,7 +10872,7 @@
                      <string name="description" value="riccochet" wide="true"/>
                      <int name="group" value="1"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14219179632">
+                  <obj class="USlotVisuals" ID="14227392240">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="43"/>
@@ -10929,7 +10969,7 @@
                      <string name="description" value="riccochet" wide="true"/>
                      <int name="group" value="1"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="8677528016">
+                  <obj class="USlotVisuals" ID="14219652144">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -11051,7 +11091,7 @@
                      <string name="description" value="riccochet" wide="true"/>
                      <int name="group" value="1"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14219185072">
+                  <obj class="USlotVisuals" ID="14227393360">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="43"/>
@@ -11148,7 +11188,7 @@
                      <string name="description" value="riccochet" wide="true"/>
                      <int name="group" value="1"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="8677531536">
+                  <obj class="USlotVisuals" ID="14219652784">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -11240,7 +11280,7 @@
                      <string name="description" value="riccochet" wide="true"/>
                      <int name="group" value="1"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14219181552">
+                  <obj class="USlotVisuals" ID="14227393680">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="43"/>
@@ -11500,7 +11540,7 @@
             <member name="sv">
                <int name="ownership" value="2"/>
                <list name="obj" type="obj">
-                  <obj class="USlotVisuals" ID="761897648">
+                  <obj class="USlotVisuals" ID="14234780272">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -11516,7 +11556,7 @@
                      <string name="description" value="normal2" wide="true"/>
                      <int name="group" value="1"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14219181712">
+                  <obj class="USlotVisuals" ID="14227399440">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="43"/>
@@ -11592,7 +11632,7 @@
             <member name="sv">
                <int name="ownership" value="2"/>
                <list name="obj" type="obj">
-                  <obj class="USlotVisuals" ID="761897808">
+                  <obj class="USlotVisuals" ID="14234780592">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -11608,7 +11648,7 @@
                      <string name="description" value="normal2" wide="true"/>
                      <int name="group" value="1"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="8677524976">
+                  <obj class="USlotVisuals" ID="14219651344">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -11684,7 +11724,7 @@
             <member name="sv">
                <int name="ownership" value="2"/>
                <list name="obj" type="obj">
-                  <obj class="USlotVisuals" ID="761901648">
+                  <obj class="USlotVisuals" ID="14234782032">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -11692,7 +11732,7 @@
                      <string name="description" value="halftone trill" wide="true"/>
                      <int name="group" value="0"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14227398480">
+                  <obj class="USlotVisuals" ID="14219636304">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -11700,7 +11740,7 @@
                      <string name="description" value="crescendo" wide="true"/>
                      <int name="group" value="1"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14219170288">
+                  <obj class="USlotVisuals" ID="14437417216">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="43"/>
@@ -11776,7 +11816,7 @@
             <member name="sv">
                <int name="ownership" value="2"/>
                <list name="obj" type="obj">
-                  <obj class="USlotVisuals" ID="761899248">
+                  <obj class="USlotVisuals" ID="14234782192">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -11784,7 +11824,7 @@
                      <string name="description" value="halftone trill" wide="true"/>
                      <int name="group" value="0"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14227392400">
+                  <obj class="USlotVisuals" ID="14219632304">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -11792,7 +11832,7 @@
                      <string name="description" value="dimuendo" wide="true"/>
                      <int name="group" value="1"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14219173168">
+                  <obj class="USlotVisuals" ID="14437412416">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="43"/>
@@ -11868,7 +11908,7 @@
             <member name="sv">
                <int name="ownership" value="2"/>
                <list name="obj" type="obj">
-                  <obj class="USlotVisuals" ID="767677008">
+                  <obj class="USlotVisuals" ID="14219651184">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -11884,7 +11924,7 @@
                      <string name="description" value="normal2" wide="true"/>
                      <int name="group" value="1"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14219167568">
+                  <obj class="USlotVisuals" ID="14437420416">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="43"/>
@@ -11960,7 +12000,7 @@
             <member name="sv">
                <int name="ownership" value="2"/>
                <list name="obj" type="obj">
-                  <obj class="USlotVisuals" ID="767679088">
+                  <obj class="USlotVisuals" ID="14219641904">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -11976,7 +12016,7 @@
                      <string name="description" value="normal2" wide="true"/>
                      <int name="group" value="1"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="8677530416">
+                  <obj class="USlotVisuals" ID="14219651824">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -11988,6 +12028,322 @@
             </member>
             <member name="name">
                <string name="s" value="wholtetone trill cut-r" wide="true"/>
+            </member>
+            <int name="color" value="11"/>
+         </obj>
+         <obj class="PSoundSlot" ID="768150704">
+            <obj class="PSlotThruTrigger" name="remote" ID="765678784">
+               <int name="status" value="144"/>
+               <int name="data1" value="-1"/>
+            </obj>
+            <obj class="PSlotMidiAction" name="action" ID="765588768">
+               <int name="version" value="600"/>
+               <member name="noteChanger">
+                  <int name="ownership" value="1"/>
+                  <list name="obj" type="obj">
+                     <obj class="PSlotNoteChanger" ID="769431344">
+                        <int name="channel" value="-1"/>
+                        <float name="velocityFact" value="1"/>
+                        <float name="lengthFact" value="1"/>
+                        <int name="minVelocity" value="0"/>
+                        <int name="maxVelocity" value="127"/>
+                        <int name="transpose" value="0"/>
+                        <int name="minPitch" value="0"/>
+                        <int name="maxPitch" value="127"/>
+                     </obj>
+                  </list>
+               </member>
+               <member name="midiMessages">
+                  <int name="ownership" value="1"/>
+                  <list name="obj" type="obj">
+                     <obj class="POutputEvent" ID="765678528">
+                        <int name="status" value="144"/>
+                        <int name="data1" value="26"/>
+                        <int name="data2" value="120"/>
+                     </obj>
+                     <obj class="POutputEvent" ID="765678880">
+                        <int name="status" value="144"/>
+                        <int name="data1" value="33"/>
+                        <int name="data2" value="120"/>
+                     </obj>
+                     <obj class="POutputEvent" ID="765678112">
+                        <int name="status" value="144"/>
+                        <int name="data1" value="98"/>
+                        <int name="data2" value="120"/>
+                     </obj>
+                  </list>
+               </member>
+               <int name="channel" value="-1"/>
+               <float name="velocityFact" value="1"/>
+               <float name="lengthFact" value="1"/>
+               <int name="minVelocity" value="0"/>
+               <int name="maxVelocity" value="127"/>
+               <int name="transpose" value="0"/>
+               <int name="maxPitch" value="127"/>
+               <int name="minPitch" value="0"/>
+               <int name="key" value="26"/>
+               <int name="key2" value="33"/>
+            </obj>
+            <member name="sv">
+               <int name="ownership" value="2"/>
+               <list name="obj" type="obj">
+                  <obj class="USlotVisuals" ID="14231756080">
+                     <int name="displaytype" value="1"/>
+                     <int name="articulationtype" value="1"/>
+                     <int name="symbol" value="73"/>
+                     <string name="text" value="glissando" wide="true"/>
+                     <string name="description" value="glissando" wide="true"/>
+                     <int name="group" value="0"/>
+                  </obj>
+                  <obj class="USlotVisuals" ID="14219642544">
+                     <int name="displaytype" value="1"/>
+                     <int name="articulationtype" value="1"/>
+                     <int name="symbol" value="73"/>
+                     <string name="text" value="sul C" wide="true"/>
+                     <string name="description" value="sul C" wide="true"/>
+                     <int name="group" value="1"/>
+                  </obj>
+               </list>
+            </member>
+            <member name="name">
+               <string name="s" value="glissando sul C" wide="true"/>
+            </member>
+            <int name="color" value="2"/>
+         </obj>
+         <obj class="PSoundSlot" ID="14227437280">
+            <obj class="PSlotThruTrigger" name="remote" ID="14223906688">
+               <int name="status" value="144"/>
+               <int name="data1" value="-1"/>
+            </obj>
+            <obj class="PSlotMidiAction" name="action" ID="14227669952">
+               <int name="version" value="600"/>
+               <member name="noteChanger">
+                  <int name="ownership" value="1"/>
+                  <list name="obj" type="obj">
+                     <obj class="PSlotNoteChanger" ID="14231680224">
+                        <int name="channel" value="-1"/>
+                        <float name="velocityFact" value="1"/>
+                        <float name="lengthFact" value="1"/>
+                        <int name="minVelocity" value="0"/>
+                        <int name="maxVelocity" value="127"/>
+                        <int name="transpose" value="0"/>
+                        <int name="minPitch" value="0"/>
+                        <int name="maxPitch" value="127"/>
+                     </obj>
+                  </list>
+               </member>
+               <member name="midiMessages">
+                  <int name="ownership" value="1"/>
+                  <list name="obj" type="obj">
+                     <obj class="POutputEvent" ID="14055394096">
+                        <int name="status" value="144"/>
+                        <int name="data1" value="26"/>
+                        <int name="data2" value="120"/>
+                     </obj>
+                     <obj class="POutputEvent" ID="14055390160">
+                        <int name="status" value="144"/>
+                        <int name="data1" value="33"/>
+                        <int name="data2" value="120"/>
+                     </obj>
+                     <obj class="POutputEvent" ID="14055393232">
+                        <int name="status" value="144"/>
+                        <int name="data1" value="99"/>
+                        <int name="data2" value="120"/>
+                     </obj>
+                  </list>
+               </member>
+               <int name="channel" value="-1"/>
+               <float name="velocityFact" value="1"/>
+               <float name="lengthFact" value="1"/>
+               <int name="minVelocity" value="0"/>
+               <int name="maxVelocity" value="127"/>
+               <int name="transpose" value="0"/>
+               <int name="maxPitch" value="127"/>
+               <int name="minPitch" value="0"/>
+               <int name="key" value="26"/>
+               <int name="key2" value="33"/>
+            </obj>
+            <member name="sv">
+               <int name="ownership" value="2"/>
+               <list name="obj" type="obj">
+                  <obj class="USlotVisuals" ID="14231753200">
+                     <int name="displaytype" value="1"/>
+                     <int name="articulationtype" value="1"/>
+                     <int name="symbol" value="73"/>
+                     <string name="text" value="glissando" wide="true"/>
+                     <string name="description" value="glissando" wide="true"/>
+                     <int name="group" value="0"/>
+                  </obj>
+                  <obj class="USlotVisuals" ID="5480180144">
+                     <int name="displaytype" value="1"/>
+                     <int name="articulationtype" value="1"/>
+                     <int name="symbol" value="73"/>
+                     <string name="text" value="sul G" wide="true"/>
+                     <string name="description" value="sul G" wide="true"/>
+                     <int name="group" value="1"/>
+                  </obj>
+               </list>
+            </member>
+            <member name="name">
+               <string name="s" value="glissando sul G" wide="true"/>
+            </member>
+            <int name="color" value="10"/>
+         </obj>
+         <obj class="PSoundSlot" ID="14227441456">
+            <obj class="PSlotThruTrigger" name="remote" ID="14223904768">
+               <int name="status" value="144"/>
+               <int name="data1" value="-1"/>
+            </obj>
+            <obj class="PSlotMidiAction" name="action" ID="14227671968">
+               <int name="version" value="600"/>
+               <member name="noteChanger">
+                  <int name="ownership" value="1"/>
+                  <list name="obj" type="obj">
+                     <obj class="PSlotNoteChanger" ID="14231682976">
+                        <int name="channel" value="-1"/>
+                        <float name="velocityFact" value="1"/>
+                        <float name="lengthFact" value="1"/>
+                        <int name="minVelocity" value="0"/>
+                        <int name="maxVelocity" value="127"/>
+                        <int name="transpose" value="0"/>
+                        <int name="minPitch" value="0"/>
+                        <int name="maxPitch" value="127"/>
+                     </obj>
+                  </list>
+               </member>
+               <member name="midiMessages">
+                  <int name="ownership" value="1"/>
+                  <list name="obj" type="obj">
+                     <obj class="POutputEvent" ID="14055394416">
+                        <int name="status" value="144"/>
+                        <int name="data1" value="26"/>
+                        <int name="data2" value="120"/>
+                     </obj>
+                     <obj class="POutputEvent" ID="14055394064">
+                        <int name="status" value="144"/>
+                        <int name="data1" value="33"/>
+                        <int name="data2" value="120"/>
+                     </obj>
+                     <obj class="POutputEvent" ID="14055391056">
+                        <int name="status" value="144"/>
+                        <int name="data1" value="100"/>
+                        <int name="data2" value="120"/>
+                     </obj>
+                  </list>
+               </member>
+               <int name="channel" value="-1"/>
+               <float name="velocityFact" value="1"/>
+               <float name="lengthFact" value="1"/>
+               <int name="minVelocity" value="0"/>
+               <int name="maxVelocity" value="127"/>
+               <int name="transpose" value="0"/>
+               <int name="maxPitch" value="127"/>
+               <int name="minPitch" value="0"/>
+               <int name="key" value="26"/>
+               <int name="key2" value="33"/>
+            </obj>
+            <member name="sv">
+               <int name="ownership" value="2"/>
+               <list name="obj" type="obj">
+                  <obj class="USlotVisuals" ID="14231755600">
+                     <int name="displaytype" value="1"/>
+                     <int name="articulationtype" value="1"/>
+                     <int name="symbol" value="73"/>
+                     <string name="text" value="glissando" wide="true"/>
+                     <string name="description" value="glissando" wide="true"/>
+                     <int name="group" value="0"/>
+                  </obj>
+                  <obj class="USlotVisuals" ID="5480179504">
+                     <int name="displaytype" value="1"/>
+                     <int name="articulationtype" value="1"/>
+                     <int name="symbol" value="73"/>
+                     <string name="text" value="sul D" wide="true"/>
+                     <string name="description" value="sul D" wide="true"/>
+                     <int name="group" value="1"/>
+                  </obj>
+               </list>
+            </member>
+            <member name="name">
+               <string name="s" value="glissando sul D" wide="true"/>
+            </member>
+            <int name="color" value="12"/>
+         </obj>
+         <obj class="PSoundSlot" ID="14227436416">
+            <obj class="PSlotThruTrigger" name="remote" ID="14223904512">
+               <int name="status" value="144"/>
+               <int name="data1" value="-1"/>
+            </obj>
+            <obj class="PSlotMidiAction" name="action" ID="14227669280">
+               <int name="version" value="600"/>
+               <member name="noteChanger">
+                  <int name="ownership" value="1"/>
+                  <list name="obj" type="obj">
+                     <obj class="PSlotNoteChanger" ID="14231680672">
+                        <int name="channel" value="-1"/>
+                        <float name="velocityFact" value="1"/>
+                        <float name="lengthFact" value="1"/>
+                        <int name="minVelocity" value="0"/>
+                        <int name="maxVelocity" value="127"/>
+                        <int name="transpose" value="0"/>
+                        <int name="minPitch" value="0"/>
+                        <int name="maxPitch" value="127"/>
+                     </obj>
+                  </list>
+               </member>
+               <member name="midiMessages">
+                  <int name="ownership" value="1"/>
+                  <list name="obj" type="obj">
+                     <obj class="POutputEvent" ID="14055386960">
+                        <int name="status" value="144"/>
+                        <int name="data1" value="26"/>
+                        <int name="data2" value="120"/>
+                     </obj>
+                     <obj class="POutputEvent" ID="14055384912">
+                        <int name="status" value="144"/>
+                        <int name="data1" value="33"/>
+                        <int name="data2" value="120"/>
+                     </obj>
+                     <obj class="POutputEvent" ID="14055385104">
+                        <int name="status" value="144"/>
+                        <int name="data1" value="101"/>
+                        <int name="data2" value="120"/>
+                     </obj>
+                  </list>
+               </member>
+               <int name="channel" value="-1"/>
+               <float name="velocityFact" value="1"/>
+               <float name="lengthFact" value="1"/>
+               <int name="minVelocity" value="0"/>
+               <int name="maxVelocity" value="127"/>
+               <int name="transpose" value="0"/>
+               <int name="maxPitch" value="127"/>
+               <int name="minPitch" value="0"/>
+               <int name="key" value="26"/>
+               <int name="key2" value="33"/>
+            </obj>
+            <member name="sv">
+               <int name="ownership" value="2"/>
+               <list name="obj" type="obj">
+                  <obj class="USlotVisuals" ID="14231755440">
+                     <int name="displaytype" value="1"/>
+                     <int name="articulationtype" value="1"/>
+                     <int name="symbol" value="73"/>
+                     <string name="text" value="glissando" wide="true"/>
+                     <string name="description" value="glissando" wide="true"/>
+                     <int name="group" value="0"/>
+                  </obj>
+                  <obj class="USlotVisuals" ID="5480179344">
+                     <int name="displaytype" value="1"/>
+                     <int name="articulationtype" value="1"/>
+                     <int name="symbol" value="73"/>
+                     <string name="text" value="sul A" wide="true"/>
+                     <string name="description" value="sul A" wide="true"/>
+                     <int name="group" value="1"/>
+                  </obj>
+               </list>
+            </member>
+            <member name="name">
+               <string name="s" value="glissando sul A" wide="true"/>
             </member>
             <int name="color" value="11"/>
          </obj>
@@ -12060,7 +12416,7 @@
                      <string name="description" value="tremolo" wide="true"/>
                      <int name="group" value="0"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14227387280">
+                  <obj class="USlotVisuals" ID="14219639984">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -12144,7 +12500,7 @@
             <member name="sv">
                <int name="ownership" value="2"/>
                <list name="obj" type="obj">
-                  <obj class="USlotVisuals" ID="767672688">
+                  <obj class="USlotVisuals" ID="14219641584">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -12152,7 +12508,7 @@
                      <string name="description" value="wholetone trill" wide="true"/>
                      <int name="group" value="0"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14227386960">
+                  <obj class="USlotVisuals" ID="14219632624">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -12160,7 +12516,7 @@
                      <string name="description" value="crescendo" wide="true"/>
                      <int name="group" value="1"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14219173328">
+                  <obj class="USlotVisuals" ID="14215462544">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="43"/>
@@ -12236,7 +12592,7 @@
             <member name="sv">
                <int name="ownership" value="2"/>
                <list name="obj" type="obj">
-                  <obj class="USlotVisuals" ID="767679248">
+                  <obj class="USlotVisuals" ID="14219643024">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -12244,7 +12600,7 @@
                      <string name="description" value="wholetone trill" wide="true"/>
                      <int name="group" value="0"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14227393840">
+                  <obj class="USlotVisuals" ID="14219632784">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -12252,7 +12608,7 @@
                      <string name="description" value="dimuendo" wide="true"/>
                      <int name="group" value="1"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14219186736">
+                  <obj class="USlotVisuals" ID="14219633744">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="43"/>
@@ -12266,93 +12622,6 @@
                <string name="s" value="whoeltone trill dimuendo" wide="true"/>
             </member>
             <int name="color" value="13"/>
-         </obj>
-         <obj class="PSoundSlot" ID="768150704">
-            <obj class="PSlotThruTrigger" name="remote" ID="765678784">
-               <int name="status" value="144"/>
-               <int name="data1" value="-1"/>
-            </obj>
-            <obj class="PSlotMidiAction" name="action" ID="765588768">
-               <int name="version" value="600"/>
-               <member name="noteChanger">
-                  <int name="ownership" value="1"/>
-                  <list name="obj" type="obj">
-                     <obj class="PSlotNoteChanger" ID="769431344">
-                        <int name="channel" value="-1"/>
-                        <float name="velocityFact" value="1"/>
-                        <float name="lengthFact" value="1"/>
-                        <int name="minVelocity" value="0"/>
-                        <int name="maxVelocity" value="127"/>
-                        <int name="transpose" value="0"/>
-                        <int name="minPitch" value="0"/>
-                        <int name="maxPitch" value="127"/>
-                     </obj>
-                  </list>
-               </member>
-               <member name="midiMessages">
-                  <int name="ownership" value="1"/>
-                  <list name="obj" type="obj">
-                     <obj class="POutputEvent" ID="765678528">
-                        <int name="status" value="144"/>
-                        <int name="data1" value="26"/>
-                        <int name="data2" value="120"/>
-                     </obj>
-                     <obj class="POutputEvent" ID="765678880">
-                        <int name="status" value="144"/>
-                        <int name="data1" value="33"/>
-                        <int name="data2" value="120"/>
-                     </obj>
-                     <obj class="POutputEvent" ID="765678112">
-                        <int name="status" value="144"/>
-                        <int name="data1" value="98"/>
-                        <int name="data2" value="120"/>
-                     </obj>
-                  </list>
-               </member>
-               <int name="channel" value="-1"/>
-               <float name="velocityFact" value="1"/>
-               <float name="lengthFact" value="1"/>
-               <int name="minVelocity" value="0"/>
-               <int name="maxVelocity" value="127"/>
-               <int name="transpose" value="0"/>
-               <int name="maxPitch" value="127"/>
-               <int name="minPitch" value="0"/>
-               <int name="key" value="26"/>
-               <int name="key2" value="33"/>
-            </obj>
-            <member name="sv">
-               <int name="ownership" value="2"/>
-               <list name="obj" type="obj">
-                  <obj class="USlotVisuals" ID="767682288">
-                     <int name="displaytype" value="1"/>
-                     <int name="articulationtype" value="1"/>
-                     <int name="symbol" value="73"/>
-                     <string name="text" value="glissando" wide="true"/>
-                     <string name="description" value="glissando" wide="true"/>
-                     <int name="group" value="0"/>
-                  </obj>
-                  <obj class="USlotVisuals" ID="767678448">
-                     <int name="displaytype" value="1"/>
-                     <int name="articulationtype" value="1"/>
-                     <int name="symbol" value="73"/>
-                     <string name="text" value="normal3" wide="true"/>
-                     <string name="description" value="normal3" wide="true"/>
-                     <int name="group" value="2"/>
-                  </obj>
-                  <obj class="USlotVisuals" ID="14219188336">
-                     <int name="displaytype" value="1"/>
-                     <int name="articulationtype" value="1"/>
-                     <int name="symbol" value="43"/>
-                     <string name="text" value="normal4" wide="true"/>
-                     <string name="description" value="normal4" wide="true"/>
-                     <int name="group" value="3"/>
-                  </obj>
-               </list>
-            </member>
-            <member name="name">
-               <string name="s" value="glissando" wide="true"/>
-            </member>
-            <int name="color" value="2"/>
          </obj>
          <obj class="PSoundSlot" ID="768157616">
             <obj class="PSlotThruTrigger" name="remote" ID="765678496">
@@ -12415,7 +12684,7 @@
             <member name="sv">
                <int name="ownership" value="2"/>
                <list name="obj" type="obj">
-                  <obj class="USlotVisuals" ID="767676688">
+                  <obj class="USlotVisuals" ID="14231753360">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -12507,7 +12776,7 @@
             <member name="sv">
                <int name="ownership" value="2"/>
                <list name="obj" type="obj">
-                  <obj class="USlotVisuals" ID="767681968">
+                  <obj class="USlotVisuals" ID="14231752880">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -12599,7 +12868,7 @@
             <member name="sv">
                <int name="ownership" value="2"/>
                <list name="obj" type="obj">
-                  <obj class="USlotVisuals" ID="767675568">
+                  <obj class="USlotVisuals" ID="14231753520">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -12691,7 +12960,7 @@
             <member name="sv">
                <int name="ownership" value="2"/>
                <list name="obj" type="obj">
-                  <obj class="USlotVisuals" ID="767674448">
+                  <obj class="USlotVisuals" ID="14231753680">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -13123,7 +13392,7 @@
                      <string name="description" value="normal3" wide="true"/>
                      <int name="group" value="2"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14219188016">
+                  <obj class="USlotVisuals" ID="14219636784">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="43"/>
@@ -13223,7 +13492,7 @@
                      <string name="description" value="fast attack" wide="true"/>
                      <int name="group" value="2"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14219193456">
+                  <obj class="USlotVisuals" ID="14219635504">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="43"/>
@@ -13323,7 +13592,7 @@
                      <string name="description" value="fast attack" wide="true"/>
                      <int name="group" value="2"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="8677525136">
+                  <obj class="USlotVisuals" ID="14219652304">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -13818,7 +14087,7 @@
                      <string name="description" value="normal3" wide="true"/>
                      <int name="group" value="2"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14219186896">
+                  <obj class="USlotVisuals" ID="14219637264">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="43"/>
@@ -13918,7 +14187,7 @@
                      <string name="description" value="fast attack" wide="true"/>
                      <int name="group" value="2"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14219192016">
+                  <obj class="USlotVisuals" ID="14219640464">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="43"/>
@@ -14018,7 +14287,7 @@
                      <string name="description" value="fast attack" wide="true"/>
                      <int name="group" value="2"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="8677525456">
+                  <obj class="USlotVisuals" ID="14219629904">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -14853,7 +15122,7 @@
                      <string name="description" value="normal3" wide="true"/>
                      <int name="group" value="2"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14219196656">
+                  <obj class="USlotVisuals" ID="14219638704">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="43"/>
@@ -14953,7 +15222,7 @@
                      <string name="description" value="fast attack" wide="true"/>
                      <int name="group" value="2"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14219192176">
+                  <obj class="USlotVisuals" ID="14219635344">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="43"/>
@@ -15053,7 +15322,7 @@
                      <string name="description" value="fast attack" wide="true"/>
                      <int name="group" value="2"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="8677526256">
+                  <obj class="USlotVisuals" ID="14219629744">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -15635,7 +15904,7 @@
                      <string name="description" value="no bow change" wide="true"/>
                      <int name="group" value="0"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14227386800">
+                  <obj class="USlotVisuals" ID="14219636464">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -15719,7 +15988,7 @@
                      <string name="description" value="no bow change" wide="true"/>
                      <int name="group" value="0"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14227394800">
+                  <obj class="USlotVisuals" ID="14219633264">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -15803,7 +16072,7 @@
                      <string name="description" value="tremolo" wide="true"/>
                      <int name="group" value="0"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14227387760">
+                  <obj class="USlotVisuals" ID="14219631344">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -15895,7 +16164,7 @@
                      <string name="description" value="tremolo" wide="true"/>
                      <int name="group" value="0"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14227394000">
+                  <obj class="USlotVisuals" ID="14219637584">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -15987,7 +16256,7 @@
                      <string name="description" value="tremolo" wide="true"/>
                      <int name="group" value="0"/>
                   </obj>
-                  <obj class="USlotVisuals" ID="14227395600">
+                  <obj class="USlotVisuals" ID="14219633584">
                      <int name="displaytype" value="1"/>
                      <int name="articulationtype" value="1"/>
                      <int name="symbol" value="73"/>
@@ -16009,6 +16278,542 @@
                <string name="s" value="tremolo dimuendo long" wide="true"/>
             </member>
             <int name="color" value="1"/>
+         </obj>
+         <obj class="PSoundSlot" ID="14223452016">
+            <obj class="PSlotThruTrigger" name="remote" ID="687680160">
+               <int name="status" value="144"/>
+               <int name="data1" value="-1"/>
+            </obj>
+            <obj class="PSlotMidiAction" name="action" ID="14224288640">
+               <int name="version" value="600"/>
+               <member name="noteChanger">
+                  <int name="ownership" value="1"/>
+                  <list name="obj" type="obj">
+                     <obj class="PSlotNoteChanger" ID="14219451152">
+                        <int name="channel" value="-1"/>
+                        <float name="velocityFact" value="1"/>
+                        <float name="lengthFact" value="1"/>
+                        <int name="minVelocity" value="0"/>
+                        <int name="maxVelocity" value="127"/>
+                        <int name="transpose" value="0"/>
+                        <int name="minPitch" value="0"/>
+                        <int name="maxPitch" value="127"/>
+                     </obj>
+                  </list>
+               </member>
+               <member name="midiMessages">
+                  <int name="ownership" value="1"/>
+               </member>
+               <int name="channel" value="-1"/>
+               <float name="velocityFact" value="1"/>
+               <float name="lengthFact" value="1"/>
+               <int name="minVelocity" value="0"/>
+               <int name="maxVelocity" value="127"/>
+               <int name="transpose" value="0"/>
+               <int name="maxPitch" value="127"/>
+               <int name="minPitch" value="0"/>
+               <int name="key" value="-1"/>
+            </obj>
+            <member name="sv">
+               <int name="ownership" value="2"/>
+               <list name="obj" type="obj">
+                  <obj class="USlotVisuals" ID="14049842592">
+                     <int name="displaytype" value="1"/>
+                     <int name="articulationtype" value="1"/>
+                     <int name="symbol" value="73"/>
+                     <string name="text" value="halftone trill" wide="true"/>
+                     <string name="description" value="halftone trill" wide="true"/>
+                     <int name="group" value="0"/>
+                  </obj>
+                  <obj class="USlotVisuals" ID="14219642384">
+                     <int name="displaytype" value="1"/>
+                     <int name="articulationtype" value="1"/>
+                     <int name="symbol" value="73"/>
+                     <string name="text" value="accelerando" wide="true"/>
+                     <string name="description" value="accelerando" wide="true"/>
+                     <int name="group" value="2"/>
+                  </obj>
+               </list>
+            </member>
+            <member name="name">
+               <string name="s" value="halftone trill accel" wide="true"/>
+            </member>
+            <int name="color" value="2"/>
+         </obj>
+         <obj class="PSoundSlot" ID="4440885456">
+            <obj class="PSlotThruTrigger" name="remote" ID="14221264896">
+               <int name="status" value="144"/>
+               <int name="data1" value="-1"/>
+            </obj>
+            <obj class="PSlotMidiAction" name="action" ID="2154121408">
+               <int name="version" value="600"/>
+               <member name="noteChanger">
+                  <int name="ownership" value="1"/>
+                  <list name="obj" type="obj">
+                     <obj class="PSlotNoteChanger" ID="14225758832">
+                        <int name="channel" value="-1"/>
+                        <float name="velocityFact" value="1"/>
+                        <float name="lengthFact" value="1"/>
+                        <int name="minVelocity" value="0"/>
+                        <int name="maxVelocity" value="127"/>
+                        <int name="transpose" value="0"/>
+                        <int name="minPitch" value="0"/>
+                        <int name="maxPitch" value="127"/>
+                     </obj>
+                  </list>
+               </member>
+               <member name="midiMessages">
+                  <int name="ownership" value="1"/>
+               </member>
+               <int name="channel" value="-1"/>
+               <float name="velocityFact" value="1"/>
+               <float name="lengthFact" value="1"/>
+               <int name="minVelocity" value="0"/>
+               <int name="maxVelocity" value="127"/>
+               <int name="transpose" value="0"/>
+               <int name="maxPitch" value="127"/>
+               <int name="minPitch" value="0"/>
+               <int name="key" value="-1"/>
+            </obj>
+            <member name="sv">
+               <int name="ownership" value="2"/>
+               <list name="obj" type="obj">
+                  <obj class="USlotVisuals" ID="14049843712">
+                     <int name="displaytype" value="1"/>
+                     <int name="articulationtype" value="1"/>
+                     <int name="symbol" value="73"/>
+                     <string name="text" value="halftone trill" wide="true"/>
+                     <string name="description" value="halftone trill" wide="true"/>
+                     <int name="group" value="0"/>
+                  </obj>
+                  <obj class="USlotVisuals" ID="14219643984">
+                     <int name="displaytype" value="1"/>
+                     <int name="articulationtype" value="1"/>
+                     <int name="symbol" value="73"/>
+                     <string name="text" value="accelerando" wide="true"/>
+                     <string name="description" value="accelerando" wide="true"/>
+                     <int name="group" value="2"/>
+                  </obj>
+                  <obj class="USlotVisuals" ID="14219627984">
+                     <int name="displaytype" value="1"/>
+                     <int name="articulationtype" value="1"/>
+                     <int name="symbol" value="73"/>
+                     <string name="text" value="cut release" wide="true"/>
+                     <string name="description" value="cut release" wide="true"/>
+                     <int name="group" value="3"/>
+                  </obj>
+               </list>
+            </member>
+            <member name="name">
+               <string name="s" value="halftone trill accel cut-r" wide="true"/>
+            </member>
+            <int name="color" value="3"/>
+         </obj>
+         <obj class="PSoundSlot" ID="4440885168">
+            <obj class="PSlotThruTrigger" name="remote" ID="14221263936">
+               <int name="status" value="144"/>
+               <int name="data1" value="-1"/>
+            </obj>
+            <obj class="PSlotMidiAction" name="action" ID="14230994288">
+               <int name="version" value="600"/>
+               <member name="noteChanger">
+                  <int name="ownership" value="1"/>
+                  <list name="obj" type="obj">
+                     <obj class="PSlotNoteChanger" ID="14219824848">
+                        <int name="channel" value="-1"/>
+                        <float name="velocityFact" value="1"/>
+                        <float name="lengthFact" value="1"/>
+                        <int name="minVelocity" value="0"/>
+                        <int name="maxVelocity" value="127"/>
+                        <int name="transpose" value="0"/>
+                        <int name="minPitch" value="0"/>
+                        <int name="maxPitch" value="127"/>
+                     </obj>
+                  </list>
+               </member>
+               <member name="midiMessages">
+                  <int name="ownership" value="1"/>
+               </member>
+               <int name="channel" value="-1"/>
+               <float name="velocityFact" value="1"/>
+               <float name="lengthFact" value="1"/>
+               <int name="minVelocity" value="0"/>
+               <int name="maxVelocity" value="127"/>
+               <int name="transpose" value="0"/>
+               <int name="maxPitch" value="127"/>
+               <int name="minPitch" value="0"/>
+               <int name="key" value="-1"/>
+            </obj>
+            <member name="sv">
+               <int name="ownership" value="2"/>
+               <list name="obj" type="obj">
+                  <obj class="USlotVisuals" ID="14049841792">
+                     <int name="displaytype" value="1"/>
+                     <int name="articulationtype" value="1"/>
+                     <int name="symbol" value="73"/>
+                     <string name="text" value="halftone trill" wide="true"/>
+                     <string name="description" value="halftone trill" wide="true"/>
+                     <int name="group" value="0"/>
+                  </obj>
+                  <obj class="USlotVisuals" ID="14219639024">
+                     <int name="displaytype" value="1"/>
+                     <int name="articulationtype" value="1"/>
+                     <int name="symbol" value="73"/>
+                     <string name="text" value="crescendo" wide="true"/>
+                     <string name="description" value="crescendo" wide="true"/>
+                     <int name="group" value="1"/>
+                  </obj>
+                  <obj class="USlotVisuals" ID="14219648944">
+                     <int name="displaytype" value="1"/>
+                     <int name="articulationtype" value="1"/>
+                     <int name="symbol" value="73"/>
+                     <string name="text" value="accelerando" wide="true"/>
+                     <string name="description" value="accelerando" wide="true"/>
+                     <int name="group" value="2"/>
+                  </obj>
+               </list>
+            </member>
+            <member name="name">
+               <string name="s" value="halftone trill crescendo" wide="true"/>
+            </member>
+            <int name="color" value="4"/>
+         </obj>
+         <obj class="PSoundSlot" ID="4440885600">
+            <obj class="PSlotThruTrigger" name="remote" ID="14221311648">
+               <int name="status" value="144"/>
+               <int name="data1" value="-1"/>
+            </obj>
+            <obj class="PSlotMidiAction" name="action" ID="14230993168">
+               <int name="version" value="600"/>
+               <member name="noteChanger">
+                  <int name="ownership" value="1"/>
+                  <list name="obj" type="obj">
+                     <obj class="PSlotNoteChanger" ID="14436190864">
+                        <int name="channel" value="-1"/>
+                        <float name="velocityFact" value="1"/>
+                        <float name="lengthFact" value="1"/>
+                        <int name="minVelocity" value="0"/>
+                        <int name="maxVelocity" value="127"/>
+                        <int name="transpose" value="0"/>
+                        <int name="minPitch" value="0"/>
+                        <int name="maxPitch" value="127"/>
+                     </obj>
+                  </list>
+               </member>
+               <member name="midiMessages">
+                  <int name="ownership" value="1"/>
+               </member>
+               <int name="channel" value="-1"/>
+               <float name="velocityFact" value="1"/>
+               <float name="lengthFact" value="1"/>
+               <int name="minVelocity" value="0"/>
+               <int name="maxVelocity" value="127"/>
+               <int name="transpose" value="0"/>
+               <int name="maxPitch" value="127"/>
+               <int name="minPitch" value="0"/>
+               <int name="key" value="-1"/>
+            </obj>
+            <member name="sv">
+               <int name="ownership" value="2"/>
+               <list name="obj" type="obj">
+                  <obj class="USlotVisuals" ID="14234780432">
+                     <int name="displaytype" value="1"/>
+                     <int name="articulationtype" value="1"/>
+                     <int name="symbol" value="73"/>
+                     <string name="text" value="halftone trill" wide="true"/>
+                     <string name="description" value="halftone trill" wide="true"/>
+                     <int name="group" value="0"/>
+                  </obj>
+                  <obj class="USlotVisuals" ID="14219632944">
+                     <int name="displaytype" value="1"/>
+                     <int name="articulationtype" value="1"/>
+                     <int name="symbol" value="73"/>
+                     <string name="text" value="dimuendo" wide="true"/>
+                     <string name="description" value="dimuendo" wide="true"/>
+                     <int name="group" value="1"/>
+                  </obj>
+                  <obj class="USlotVisuals" ID="14219645584">
+                     <int name="displaytype" value="1"/>
+                     <int name="articulationtype" value="1"/>
+                     <int name="symbol" value="73"/>
+                     <string name="text" value="accelerando" wide="true"/>
+                     <string name="description" value="accelerando" wide="true"/>
+                     <int name="group" value="2"/>
+                  </obj>
+               </list>
+            </member>
+            <member name="name">
+               <string name="s" value="halftone trill dimuendo" wide="true"/>
+            </member>
+            <int name="color" value="5"/>
+         </obj>
+         <obj class="PSoundSlot" ID="14436188000">
+            <obj class="PSlotThruTrigger" name="remote" ID="14229270432">
+               <int name="status" value="144"/>
+               <int name="data1" value="-1"/>
+            </obj>
+            <obj class="PSlotMidiAction" name="action" ID="14227671520">
+               <int name="version" value="600"/>
+               <member name="noteChanger">
+                  <int name="ownership" value="1"/>
+                  <list name="obj" type="obj">
+                     <obj class="PSlotNoteChanger" ID="14231679264">
+                        <int name="channel" value="-1"/>
+                        <float name="velocityFact" value="1"/>
+                        <float name="lengthFact" value="1"/>
+                        <int name="minVelocity" value="0"/>
+                        <int name="maxVelocity" value="127"/>
+                        <int name="transpose" value="0"/>
+                        <int name="minPitch" value="0"/>
+                        <int name="maxPitch" value="127"/>
+                     </obj>
+                  </list>
+               </member>
+               <member name="midiMessages">
+                  <int name="ownership" value="1"/>
+               </member>
+               <int name="channel" value="-1"/>
+               <float name="velocityFact" value="1"/>
+               <float name="lengthFact" value="1"/>
+               <int name="minVelocity" value="0"/>
+               <int name="maxVelocity" value="127"/>
+               <int name="transpose" value="0"/>
+               <int name="maxPitch" value="127"/>
+               <int name="minPitch" value="0"/>
+               <int name="key" value="-1"/>
+            </obj>
+            <member name="sv">
+               <int name="ownership" value="2"/>
+               <list name="obj" type="obj">
+                  <obj class="USlotVisuals" ID="14219647024">
+                     <int name="displaytype" value="1"/>
+                     <int name="articulationtype" value="1"/>
+                     <int name="symbol" value="73"/>
+                     <string name="text" value="wholetone trill" wide="true"/>
+                     <string name="description" value="wholetone trill" wide="true"/>
+                     <int name="group" value="0"/>
+                  </obj>
+                  <obj class="USlotVisuals" ID="14219647824">
+                     <int name="displaytype" value="1"/>
+                     <int name="articulationtype" value="1"/>
+                     <int name="symbol" value="73"/>
+                     <string name="text" value="accelerando" wide="true"/>
+                     <string name="description" value="accelerando" wide="true"/>
+                     <int name="group" value="2"/>
+                  </obj>
+               </list>
+            </member>
+            <member name="name">
+               <string name="s" value="wholetone trill accel" wide="true"/>
+            </member>
+            <int name="color" value="6"/>
+         </obj>
+         <obj class="PSoundSlot" ID="14436181808">
+            <obj class="PSlotThruTrigger" name="remote" ID="14229248800">
+               <int name="status" value="144"/>
+               <int name="data1" value="-1"/>
+            </obj>
+            <obj class="PSlotMidiAction" name="action" ID="14227671408">
+               <int name="version" value="600"/>
+               <member name="noteChanger">
+                  <int name="ownership" value="1"/>
+                  <list name="obj" type="obj">
+                     <obj class="PSlotNoteChanger" ID="14231677152">
+                        <int name="channel" value="-1"/>
+                        <float name="velocityFact" value="1"/>
+                        <float name="lengthFact" value="1"/>
+                        <int name="minVelocity" value="0"/>
+                        <int name="maxVelocity" value="127"/>
+                        <int name="transpose" value="0"/>
+                        <int name="minPitch" value="0"/>
+                        <int name="maxPitch" value="127"/>
+                     </obj>
+                  </list>
+               </member>
+               <member name="midiMessages">
+                  <int name="ownership" value="1"/>
+               </member>
+               <int name="channel" value="-1"/>
+               <float name="velocityFact" value="1"/>
+               <float name="lengthFact" value="1"/>
+               <int name="minVelocity" value="0"/>
+               <int name="maxVelocity" value="127"/>
+               <int name="transpose" value="0"/>
+               <int name="maxPitch" value="127"/>
+               <int name="minPitch" value="0"/>
+               <int name="key" value="-1"/>
+            </obj>
+            <member name="sv">
+               <int name="ownership" value="2"/>
+               <list name="obj" type="obj">
+                  <obj class="USlotVisuals" ID="14219650544">
+                     <int name="displaytype" value="1"/>
+                     <int name="articulationtype" value="1"/>
+                     <int name="symbol" value="73"/>
+                     <string name="text" value="wholetone trill" wide="true"/>
+                     <string name="description" value="wholetone trill" wide="true"/>
+                     <int name="group" value="0"/>
+                  </obj>
+                  <obj class="USlotVisuals" ID="14219647984">
+                     <int name="displaytype" value="1"/>
+                     <int name="articulationtype" value="1"/>
+                     <int name="symbol" value="73"/>
+                     <string name="text" value="accelerando" wide="true"/>
+                     <string name="description" value="accelerando" wide="true"/>
+                     <int name="group" value="2"/>
+                  </obj>
+                  <obj class="USlotVisuals" ID="14219649264">
+                     <int name="displaytype" value="1"/>
+                     <int name="articulationtype" value="1"/>
+                     <int name="symbol" value="73"/>
+                     <string name="text" value="cut release" wide="true"/>
+                     <string name="description" value="cut release" wide="true"/>
+                     <int name="group" value="3"/>
+                  </obj>
+               </list>
+            </member>
+            <member name="name">
+               <string name="s" value="wholetone trill accel cut-r" wide="true"/>
+            </member>
+            <int name="color" value="7"/>
+         </obj>
+         <obj class="PSoundSlot" ID="14436185696">
+            <obj class="PSlotThruTrigger" name="remote" ID="14229247328">
+               <int name="status" value="144"/>
+               <int name="data1" value="-1"/>
+            </obj>
+            <obj class="PSlotMidiAction" name="action" ID="14227670176">
+               <int name="version" value="600"/>
+               <member name="noteChanger">
+                  <int name="ownership" value="1"/>
+                  <list name="obj" type="obj">
+                     <obj class="PSlotNoteChanger" ID="14231671456">
+                        <int name="channel" value="-1"/>
+                        <float name="velocityFact" value="1"/>
+                        <float name="lengthFact" value="1"/>
+                        <int name="minVelocity" value="0"/>
+                        <int name="maxVelocity" value="127"/>
+                        <int name="transpose" value="0"/>
+                        <int name="minPitch" value="0"/>
+                        <int name="maxPitch" value="127"/>
+                     </obj>
+                  </list>
+               </member>
+               <member name="midiMessages">
+                  <int name="ownership" value="1"/>
+               </member>
+               <int name="channel" value="-1"/>
+               <float name="velocityFact" value="1"/>
+               <float name="lengthFact" value="1"/>
+               <int name="minVelocity" value="0"/>
+               <int name="maxVelocity" value="127"/>
+               <int name="transpose" value="0"/>
+               <int name="maxPitch" value="127"/>
+               <int name="minPitch" value="0"/>
+               <int name="key" value="-1"/>
+            </obj>
+            <member name="sv">
+               <int name="ownership" value="2"/>
+               <list name="obj" type="obj">
+                  <obj class="USlotVisuals" ID="14219641104">
+                     <int name="displaytype" value="1"/>
+                     <int name="articulationtype" value="1"/>
+                     <int name="symbol" value="73"/>
+                     <string name="text" value="wholetone trill" wide="true"/>
+                     <string name="description" value="wholetone trill" wide="true"/>
+                     <int name="group" value="0"/>
+                  </obj>
+                  <obj class="USlotVisuals" ID="14219633904">
+                     <int name="displaytype" value="1"/>
+                     <int name="articulationtype" value="1"/>
+                     <int name="symbol" value="73"/>
+                     <string name="text" value="crescendo" wide="true"/>
+                     <string name="description" value="crescendo" wide="true"/>
+                     <int name="group" value="1"/>
+                  </obj>
+                  <obj class="USlotVisuals" ID="14219642864">
+                     <int name="displaytype" value="1"/>
+                     <int name="articulationtype" value="1"/>
+                     <int name="symbol" value="73"/>
+                     <string name="text" value="accelerando" wide="true"/>
+                     <string name="description" value="accelerando" wide="true"/>
+                     <int name="group" value="2"/>
+                  </obj>
+               </list>
+            </member>
+            <member name="name">
+               <string name="s" value="wholetone trill crescendo" wide="true"/>
+            </member>
+            <int name="color" value="8"/>
+         </obj>
+         <obj class="PSoundSlot" ID="14436180368">
+            <obj class="PSlotThruTrigger" name="remote" ID="14229278720">
+               <int name="status" value="144"/>
+               <int name="data1" value="-1"/>
+            </obj>
+            <obj class="PSlotMidiAction" name="action" ID="14227671296">
+               <int name="version" value="600"/>
+               <member name="noteChanger">
+                  <int name="ownership" value="1"/>
+                  <list name="obj" type="obj">
+                     <obj class="PSlotNoteChanger" ID="14231666592">
+                        <int name="channel" value="-1"/>
+                        <float name="velocityFact" value="1"/>
+                        <float name="lengthFact" value="1"/>
+                        <int name="minVelocity" value="0"/>
+                        <int name="maxVelocity" value="127"/>
+                        <int name="transpose" value="0"/>
+                        <int name="minPitch" value="0"/>
+                        <int name="maxPitch" value="127"/>
+                     </obj>
+                  </list>
+               </member>
+               <member name="midiMessages">
+                  <int name="ownership" value="1"/>
+               </member>
+               <int name="channel" value="-1"/>
+               <float name="velocityFact" value="1"/>
+               <float name="lengthFact" value="1"/>
+               <int name="minVelocity" value="0"/>
+               <int name="maxVelocity" value="127"/>
+               <int name="transpose" value="0"/>
+               <int name="maxPitch" value="127"/>
+               <int name="minPitch" value="0"/>
+               <int name="key" value="-1"/>
+            </obj>
+            <member name="sv">
+               <int name="ownership" value="2"/>
+               <list name="obj" type="obj">
+                  <obj class="USlotVisuals" ID="14219643184">
+                     <int name="displaytype" value="1"/>
+                     <int name="articulationtype" value="1"/>
+                     <int name="symbol" value="73"/>
+                     <string name="text" value="wholetone trill" wide="true"/>
+                     <string name="description" value="wholetone trill" wide="true"/>
+                     <int name="group" value="0"/>
+                  </obj>
+                  <obj class="USlotVisuals" ID="14219631184">
+                     <int name="displaytype" value="1"/>
+                     <int name="articulationtype" value="1"/>
+                     <int name="symbol" value="73"/>
+                     <string name="text" value="dimuendo" wide="true"/>
+                     <string name="description" value="dimuendo" wide="true"/>
+                     <int name="group" value="1"/>
+                  </obj>
+                  <obj class="USlotVisuals" ID="14219647664">
+                     <int name="displaytype" value="1"/>
+                     <int name="articulationtype" value="1"/>
+                     <int name="symbol" value="73"/>
+                     <string name="text" value="accelerando" wide="true"/>
+                     <string name="description" value="accelerando" wide="true"/>
+                     <int name="group" value="2"/>
+                  </obj>
+               </list>
+            </member>
+            <member name="name">
+               <string name="s" value="wholetone trill dimuendo" wide="true"/>
+            </member>
+            <int name="color" value="9"/>
          </obj>
       </list>
    </member>
