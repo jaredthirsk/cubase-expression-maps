@@ -35,7 +35,7 @@ SY | Elite Strings | 2nd Violin | 5 | |
 SY | Elite Strings | Viola | 4 | |
 SY | Elite Strings | Cello | 4 | |
 SY | Elite Strings | Double bass | 3 | |
-SYd | Solo Strings | Violin F            | 1 | 90% (wip) |
+SYd | Solo Strings | Violin F            | 1 | 92% (wip) |
 SYd | Solo Strings | Viola F            | 1 | ✅ |
 SYd | Solo Strings | Cello F            | 1 | ✅ |
 SYd | Solo Strings | Double bass F  | 1 | ✅ |
