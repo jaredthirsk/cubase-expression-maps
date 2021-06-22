@@ -41,10 +41,11 @@ SYd | Solo Strings | Cello F            | 1 | ✅ |
 SYd | Solo Strings | Double bass F  | 1 | ✅ |
 SYd | Special Edition | ... | |
 SYd | Dimension Strings | ... | |
-SYd | Appassionata Strings | Violin | |  |
-SYd | Appassionata Strings | Viola | |  |
-SYd | Appassionata Strings | Cello | |  |
-SYd | Appassionata Strings | Double bass | |  |
+SYd | Appassionata Strings | Violin | 20 | ? |
+SYd | Appassionata Strings | 2nd Violin | 20 |  |
+SYd | Appassionata Strings | Viola | 14 |  |
+SYd | Appassionata Strings | Cello | 12 |  |
+SYd | Appassionata Strings | Double bass | 10 | ✅ |
 
 Heads up: I'm on an old version of Cubase at the moment: 6.0.7.  (I don't know of any changes or compatibility issues with the expression map files.  There's a bug in the expression map editor: if there are a ton of articulations, you cannot drag an articulation below a certain point in the editor.  I'm thinking of upgrading Cubase for the bezier curves in MIDI CC lanes.)
 
@@ -61,6 +62,8 @@ Heads up: I'm on an old version of Cubase at the moment: 6.0.7.  (I don't know o
 ## How to design these?
 
 It can be tricky and there are tradeoffs.
+
+I use directions instead of attributes.
 
 I try to be complete with articulations so that there is a one to one mapping between Cubase articulation and VSL articulation, even though this is a very large number of articulations.  Exception:
  - Dimension strings: player selection
