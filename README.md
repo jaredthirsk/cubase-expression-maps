@@ -7,6 +7,10 @@ These are time consuming to make so if I can help others avoid having to do this
 
 [![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/jaredthirsk)
 
+## See also: a fledgling editor
+
+Mostly for programmers at this point, and it is still partially a manual process and only automates a few things: [cubase-expression-map-editor](https://github.com/jaredthirsk/cubase-expression-map-editor)
+
 ## Status
 
 More or less done enough for me: BBO, VI SE.
@@ -31,8 +35,8 @@ SY | BBO Zodiac | Viola | |  |
 SY | BBO Zodiac | Cello | |  |
 SY | BBO Zodiac | Double bass | |  |
 SY | Elite Strings | 1st Violin | 6 | ✅ |
-SY | Elite Strings | 2nd Violin | 5 | |
-SY | Elite Strings | Viola | 4 | |
+SY | Elite Strings | 2nd Violin | 5 | " |
+SY | Elite Strings | Viola | 4 | " |
 SY | Elite Strings | Cello | 4 | |
 SY | Elite Strings | Double bass | 3 | |
 SYd | Solo Strings | Violin F            | 1 | 92% (wip) |
