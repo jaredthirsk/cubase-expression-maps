@@ -30,7 +30,7 @@ SY | BBO Zodiac | Violin | |  |
 SY | BBO Zodiac | Viola | |  |
 SY | BBO Zodiac | Cello | |  |
 SY | BBO Zodiac | Double bass | |  |
-SY | Elite Strings | 1st Violin | 6 | |
+SY | Elite Strings | 1st Violin | 6 | ✅ |
 SY | Elite Strings | 2nd Violin | 5 | |
 SY | Elite Strings | Viola | 4 | |
 SY | Elite Strings | Cello | 4 | |
