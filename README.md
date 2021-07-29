@@ -29,7 +29,7 @@ SY | BBO Orion | Flute  | |  |
 SY | BBO Orion | Oboe  | |  |
 SY | BBO Orion | Clarinet  | |  |
 SY | BBO Orion | Bassoon  | |  |
-SY | BBO Ymir | Children's chior | |  |
+SY | BBO Ymir | Children's choir | |  |
 SY | BBO Zodiac | Violin | |  |
 SY | BBO Zodiac | Viola | |  |
 SY | BBO Zodiac | Cello | |  |
