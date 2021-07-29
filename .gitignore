@@ -1,1 +1,4 @@
 Ignore
+_backup/
+bin/
+obj/
