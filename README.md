@@ -34,11 +34,16 @@ SY | BBO Zodiac | Violin | |  |
 SY | BBO Zodiac | Viola | |  |
 SY | BBO Zodiac | Cello | |  |
 SY | BBO Zodiac | Double bass | |  |
+SY | Brass | Trumpets | 4 | ✅ |
+SY | Brass | Trumpets | 6 | ✅ |
 SY | Elite Strings | 1st Violin | 6 | ✅ |
 SY | Elite Strings | 2nd Violin | 5 | " |
 SY | Elite Strings | Viola | 4 | " |
 SY | Elite Strings | Cello | 4 | ✅ |
 SY | Elite Strings | Double bass | 3 | ✅ |
+SY | Elite Strings | Tutti compressed | 22 | ✅ |
+SY | Elite Strings | Tutti full | 22 |  |
+SY | Elite Strings | Octaves | 22 |  |
 SYd | Solo Strings | Violin F            | 1 | 92% (wip) |
 SYd | Solo Strings | Viola F            | 1 | ✅ |
 SYd | Solo Strings | Cello F            | 1 | ✅ |
