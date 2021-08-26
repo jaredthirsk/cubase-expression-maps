@@ -34,7 +34,7 @@ SY | BBO Zodiac | Violin | |  |
 SY | BBO Zodiac | Viola | |  |
 SY | BBO Zodiac | Cello | |  |
 SY | BBO Zodiac | Double bass | |  |
-SY | Brass | Trumpet I, II | 1 | 90% |
+SY | Brass | Trumpet I, II | 1 | ✅ |
 SY | Brass | Trumpets | 4 | ✅ |
 SY | Brass | Trumpets | 6 | ✅ |
 SY | Elite Strings | 1st Violin | 6 | ✅ |
