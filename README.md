@@ -37,12 +37,14 @@ SY | BBO Zodiac | Double bass | |  |
 SY | Brass | Trumpet I, II | 1 | ✅ |
 SY | Brass | Trumpets | 4 | ✅ |
 SY | Brass | Trumpets | 6 | ✅ |
+SY | Brass | Horn I, II | 1 | ✅ |
+ - Next: testing after portato long
 SY | Elite Strings | 1st Violin | 6 | ✅ |
 SY | Elite Strings | 2nd Violin | 5 | " |
 SY | Elite Strings | Viola | 4 | " |
-SY | Elite Strings | Cello | 4 | ✅ |
+SY | Elite Strings | Cello | 4 | 90% ✅ |
 SY | Elite Strings | Double bass | 3 | ✅ |
-SY | Elite Strings | Tutti compressed | 22 | ✅ |
+SY | Elite Strings | Tutti compressed | 22 | 90% (needs slur) |
 SY | Elite Strings | Tutti full | 22 |  |
 SY | Elite Strings | Octaves | 22 |  |
 SYd | Solo Strings | Violin F            | 1 | 92% (wip) |
