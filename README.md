@@ -42,7 +42,7 @@ SY | Brass | Horn I, II | 1 | ✅ |
 SY | Elite Strings | 1st Violin | 6 | ✅ |
 SY | Elite Strings | 2nd Violin | 5 | " |
 SY | Elite Strings | Viola | 4 | " |
-SY | Elite Strings | Cello | 4 | 90% ✅ |
+SY | Elite Strings | Cello | 4 | ✅ |
 SY | Elite Strings | Double bass | 3 | ✅ |
 SY | Elite Strings | Tutti compressed | 22 | 90% (needs slur) |
 SY | Elite Strings | Tutti full | 22 |  |
@@ -51,8 +51,12 @@ SYd | Solo Strings | Violin F            | 1 | 92% (wip) |
 SYd | Solo Strings | Viola F            | 1 | ✅ |
 SYd | Solo Strings | Cello F            | 1 | ✅ |
 SYd | Solo Strings | Double bass F  | 1 | ✅ |
+SYd | Woodwinds | Flute  | 1 | ✅ |
+SYd | Woodwinds | ... |  |  |
 SYd | Special Edition | ... | |
+SYd | Dimension Strings | Violin | 8 | 50% (wip) |
 SYd | Dimension Strings | ... | |
+SYd | (Woodwinds) | ... | |
 SYd | Appassionata Strings | Violin | 20 | ? |
 SYd | Appassionata Strings | 2nd Violin | 20 |  |
 SYd | Appassionata Strings | Viola | 14 |  |
@@ -60,6 +64,14 @@ SYd | Appassionata Strings | Cello | 12 |  |
 SYd | Appassionata Strings | Double bass | 10 | ✅ |
 
 Heads up: I'm on an old version of Cubase at the moment: 6.0.7.  (I don't know of any changes or compatibility issues with the expression map files.  There's a bug in the expression map editor: if there are a ton of articulations, you cannot drag an articulation below a certain point in the editor.  I'm thinking of upgrading Cubase for the bezier curves in MIDI CC lanes.)
+
+## Setup instructions
+
+### Dimension Strings
+
+#### Violins
+ - VelXF: change from CC2 to CC1
+ - Legato: change vibrato control from CC1 to C0 (whole notes)
 
 ### Abbreviations
 
