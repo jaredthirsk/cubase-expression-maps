@@ -51,7 +51,8 @@ SYd | Solo Strings | Violin F            | 1 | 92% (wip) |
 SYd | Solo Strings | Viola F            | 1 | ✅ |
 SYd | Solo Strings | Cello F            | 1 | ✅ |
 SYd | Solo Strings | Double bass F  | 1 | ✅ |
-SYd | Woodwinds | Flute  | 1 | ✅ |
+SYd | Woodwinds | Alto flute  | 1 | ✅ |
+SYd | Woodwinds | Bass flute  | 1 | ✅ |
 SYd | Woodwinds | ... |  |  |
 SYd | Special Edition | ... | |
 SYd | Dimension Strings | Violin | 8 | 50% (wip) |
