@@ -52,7 +52,11 @@ SYd | Solo Strings | Viola F            | 1 | ✅ |
 SYd | Solo Strings | Cello F            | 1 | ✅ |
 SYd | Solo Strings | Double bass F  | 1 | ✅ |
 SYd | Woodwinds | Alto flute  | 1 | ✅ |
-SYd | Woodwinds | Bass flute  | 1 | ✅ |
+SYd | Woodwinds | Flute ensemble | 3 | ✅ |
+SYd | Woodwinds | Bass flute | 1 | ✅ |
+SYd | Woodwinds | Oboe d'amore | 1 | ✅ |
+SYd | Woodwinds | Heckelphone | 1 | ✅ |
+SYd | Woodwinds | Clarinet Eb | 1 | ✅ |
 SYd | Woodwinds | ... |  |  |
 SYd | Special Edition | ... | |
 SYd | Dimension Strings | Violin | 8 | 50% (wip) |
@@ -66,15 +70,14 @@ SYd | Appassionata Strings | Double bass | 10 | ✅ |
 
 Heads up: I'm on an old version of Cubase at the moment: 6.0.7.  (I don't know of any changes or compatibility issues with the expression map files.  There's a bug in the expression map editor: if there are a ton of articulations, you cannot drag an articulation below a certain point in the editor.  I'm thinking of upgrading Cubase for the bezier curves in MIDI CC lanes.)
 
-## Setup instructions
+# Setup instructions
 
-### Dimension Strings
+## Dimension Strings
 
-#### Violins
  - VelXF: change from CC2 to CC1
  - Legato: change vibrato control from CC1 to C0 (whole notes)
 
-### Abbreviations
+## Abbreviations
 
  - F - Full (for solo strings, as opposed to basic)
  - SE - Special Edition
@@ -84,11 +87,11 @@ Heads up: I'm on an old version of Cubase at the moment: 6.0.7.  (I don't know o
  - SYP - Synchron Strings Pro
  - VI - Vienna Instruments
 
-## How to design these?
+# How to design these?
 
 It can be tricky and there are tradeoffs.
 
-I use directions instead of attributes.
+I use only use directions, no attributes.
 
 I try to be complete with articulations so that there is a one to one mapping between Cubase articulation and VSL articulation, even though this is a very large number of articulations.  Exception:
  - Dimension strings: player selection
