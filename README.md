@@ -20,25 +20,43 @@ I've done more than this status table indicates, but best to assume the worst.
 
 |     | Series | Instrument | Size | Status |
 --- | --- | --- |:---:|:--:|
-SY | BBO Hercules | Low brass | | WIP |
-SY | BBO Kopernicus | | |  |
-SY | BBO Jupiter | | | |
-SY | BBO Lyra |  | |  |
-SY | BBO Musca |  | |  |
+SY | BBO Andromeda | | ? |  |
+SY | BBO Andromeda Con Sordino | | 0% |  |
+SY | BBO Andromeda Free | | ? |  |
+SY | BBO Black Eye  | | 0% |  |
+SY | BBO Capricorn | | |  |
+SY | BBO Dorado | | ? | |
+SY | BBO Eridanus | | |  |
+SY | BBO Fornax | | |  |
+SY | BBO Ganymeade | | |  |
+SY | BBO Hercules | Low brass | | ? |
+SY | BBO Izar | | |  |
+SY | BBO Jupiter | | ? | |
+SY | BBO Kopernicus | | ? | |
+SY | BBO Lyra |  | ? |  |
+SY | BBO Musca |  | ? |  |
+SY | BBO Neptune |  | |  |
 SY | BBO Orion | Flute  | |  |
 SY | BBO Orion | Oboe  | |  |
 SY | BBO Orion | Clarinet  | |  |
 SY | BBO Orion | Bassoon  | |  |
+SY | BBO Phoenix |  | |  |
+SY | BBO Quasar |  | |  |
+SY | BBO Regulus |  | |  |
+SY | BBO (S through X) | (See Strings Pro instead) |  | N/A  | |
 SY | BBO Ymir | Children's choir | |  |
-SY | BBO Zodiac | Violin | |  |
-SY | BBO Zodiac | Viola | |  |
-SY | BBO Zodiac | Cello | |  |
-SY | BBO Zodiac | Double bass | |  |
+SY | BBO Zodiac | Violins | | ? |
+SY | BBO Zodiac | Violas | |  |
+SY | BBO Zodiac | Cellos | | ? |
+SY | BBO Zodiac | Double basses | | ?  |
+SY | BBO Zodiac | Strings | | ?  |
+SY | BBO Zodiac | Horns | | ?  |
+SY | BBO Zodiac | Epic Legato | | ?  |
 SY | Brass | Trumpet I, II | 1 | ✅ |
 SY | Brass | Trumpets | 4 | ✅ |
 SY | Brass | Trumpets | 6 | ✅ |
 SY | Brass | Horn I, II | 1 | ✅ |
- - Next: testing after portato long
+SY | Brass | ... |  |  |
 SY | Elite Strings | 1st Violin | 6 | ✅ |
 SY | Elite Strings | 2nd Violin | 5 | " |
 SY | Elite Strings | Viola | 4 | " |
@@ -47,26 +65,51 @@ SY | Elite Strings | Double bass | 3 | ✅ |
 SY | Elite Strings | Tutti compressed | 22 | 90% (needs slur) |
 SY | Elite Strings | Tutti full | 22 |  |
 SY | Elite Strings | Octaves | 22 |  |
+SY | Strings Pro | 1st Violins | 14 |  |
+SY | Strings Pro | 2nd Violins | 10 |  |
+SY | Strings Pro | Violas | 8 |  |
+SY | Strings Pro | Cellos | 8 | ? |
+SY | Strings Pro | Double basses | 6 | ? |
+SY | Strings Pro | Tutti full range |  |  |
+SY | Strings Pro | Tutti compressed range |  |  |
+SY | Strings Pro | Octaves |  |  |
+SY | Drums | Bass Drum - Lefima 28 | | |
+SY | Drums | Roto Toms | | |
+SY | Drums | Taikos | | |
 SYd | Solo Strings | Violin F            | 1 | 92% (wip) |
-SYd | Solo Strings | Viola F            | 1 | ✅ |
-SYd | Solo Strings | Cello F            | 1 | ✅ |
+SYd | Solo Strings | Viola F             | 1 | ✅ |
+SYd | Solo Strings | Cello F             | 1 | ✅ |
 SYd | Solo Strings | Double bass F  | 1 | ✅ |
-SYd | Woodwinds | Alto flute  | 1 | ✅ |
-SYd | Woodwinds | Flute ensemble | 3 | ✅ |
-SYd | Woodwinds | Bass flute | 1 | ✅ |
-SYd | Woodwinds | Oboe d'amore | 1 | ✅ |
-SYd | Woodwinds | Heckelphone | 1 | ✅ |
-SYd | Woodwinds | Clarinet Eb | 1 | ✅ |
-SYd | Woodwinds | ... |  |  |
+SYd | Woodwinds | (all)                  |  | ✅ |
+SYd | Woodwinds | Alto flute           | 1 | ✅ |
+SYd | Woodwinds | Flute ensemble  | 3 | ✅ |
+SYd | Woodwinds | Bass flute          | 1 | ✅ |
+SYd | Woodwinds | Oboe d'amore    | 1 | ✅ |
+SYd | Woodwinds | Oboe ensemble  | 3 | ✅ |
+SYd | Woodwinds | Heckelphone      | 1 | ✅ |
+SYd | Woodwinds | Clarinet Eb         | 1 | ✅ |
+SYd | Woodwinds | Basset horn         | 1 | ✅ |
+SYd | Woodwinds | Clarinet ensemble     | 3 | ✅ |
+SYd | Woodwinds | Bassoon ensemble    | 3 | ✅ |
+SYd | Woodwinds | Contrabass Clarinet   | 1 | ✅ |
 SYd | Special Edition | ... | |
-SYd | Dimension Strings | Violin | 8 | 50% (wip) |
+SYd | Dimension Strings | Violin             | 8 | 50% (wip) |
 SYd | Dimension Strings | ... | |
-SYd | (Woodwinds) | ... | |
-SYd | Appassionata Strings | Violin | 20 | ? |
-SYd | Appassionata Strings | 2nd Violin | 20 |  |
-SYd | Appassionata Strings | Viola | 14 |  |
-SYd | Appassionata Strings | Cello | 12 |  |
-SYd | Appassionata Strings | Double bass | 10 | ✅ |
+SYd | Appassionata Strings | Violin         | 20 | ? |
+SYd | Appassionata Strings | 2nd Violin   | 20 |  |
+SYd | Appassionata Strings | Viola          | 14 |  |
+SYd | Appassionata Strings | Cello          | 12 |  |
+SYd | Appassionata Strings | Double bass    | 10 | ✅ |
+SYd | Appassionata Strings | all                  |  |  |
+Smart | Smart Hits | |  |  |
+Smart | Smart Spheres | |  |  |
+SYd | Special Edition | Orch. cellos | | ? |
+SYd | Special Edition | T'bone c-bass |  | ? |
+SYd | Special Edition | ...  |  |  |
+VI | Special Edition | Trombone Ensemble |  | ? |
+VI | Special Edition | ... |  |  |
+
+
 
 Heads up: I'm on an old version of Cubase at the moment: 6.0.7.  (I don't know of any changes or compatibility issues with the expression map files.  There's a bug in the expression map editor: if there are a ton of articulations, you cannot drag an articulation below a certain point in the editor.  I'm thinking of upgrading Cubase for the bezier curves in MIDI CC lanes.)
 
