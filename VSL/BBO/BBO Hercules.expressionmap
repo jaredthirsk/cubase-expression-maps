@@ -348,7 +348,7 @@
                </list>
             </member>
             <member name="name">
-               <string name="s" value="short (bold)" wide="true"/>
+               <string name="s" value="short bold" wide="true"/>
             </member>
             <int name="color" value="1"/>
          </obj>
@@ -435,7 +435,7 @@
                </list>
             </member>
             <member name="name">
-               <string name="s" value="short (bold) CBT" wide="true"/>
+               <string name="s" value="short bold CBT" wide="true"/>
             </member>
             <int name="color" value="16"/>
          </obj>
@@ -522,7 +522,7 @@
                </list>
             </member>
             <member name="name">
-               <string name="s" value="short (agile)" wide="true"/>
+               <string name="s" value="short agile" wide="true"/>
             </member>
             <int name="color" value="2"/>
          </obj>
@@ -609,7 +609,7 @@
                </list>
             </member>
             <member name="name">
-               <string name="s" value="short (agile) CBT" wide="true"/>
+               <string name="s" value="short agile CBT" wide="true"/>
             </member>
             <int name="color" value="1"/>
          </obj>
