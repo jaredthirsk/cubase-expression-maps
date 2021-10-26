@@ -18,23 +18,23 @@ My next focus: Solo Strings, Strings Pro, Elite Strings, and any BBO I'm missing
 
 I've done more than this status table indicates, but best to assume the worst.
 
-|     | Series | Instrument | Size | Status | Comment |
+|     | Series | Instrument | Size | Status | Comment/Priority |
 --- | --- | --- |:---:|:--:| --- |
-SY | BBO Andromeda |                                    | | ❔❔❔ |  |
-SY | BBO Andromeda Con Sordino | | 0% |  |
+SY | BBO Andromeda |                                    | | 90% | ✴✴✴ needs piccolo switch |
+SY | BBO Andromeda Con Sordino                    | | 0% |  |
 SY | BBO Andromeda Free |                             | | ❔❔❔ |  |
 SY | BBO Black Eye  |                                   | 0% |  |
 SY | BBO Capricorn |                                    | |  |
 SY | BBO Dorado |                                      | | ❔❔❔ | |
 SY | BBO Eridanus |                                      | |  |
 SY | BBO Fornax |                                      | |  |
-SY | BBO Ganymeade |                                  | |  |
-SY | BBO Hercules | Low brass                    | | ❔❔❔ | ✴✴
-SY | BBO Izar |                                            | |  |
-SY | BBO Jupiter |                                      | | ❔❔❔ | |
-SY | BBO Kopernicus |                                | | ❔❔❔ | |
-SY | BBO Lyra |                                         | | ❔❔❔ |  |
-SY | BBO Musca |                                      | | ❔❔❔ |  |
+SY | BBO Ganymeade |                                  | |  | ✴
+SY | BBO Hercules | Low brass                    | | ✅ |
+SY | BBO Izar |                                            | |  | ✴
+SY | BBO Jupiter |                                      | | ✅ |
+SY | BBO Kopernicus |                                | | ✅ |
+SY | BBO Lyra |                                         | | ❔❔❔ |  | ✴
+SY | BBO Musca |                                      | | ❔❔❔ |  | ✴
 SY | BBO Neptune |                                   | |  |
 SY | BBO Orion | Flute                               | |  |
 SY | BBO Orion | Oboe                              | |  |
@@ -43,20 +43,22 @@ SY | BBO Orion | Bassoon                          | |  |
 SY | BBO Phoenix |                                   | |  |
 SY | BBO Quasar |                                   | |  |
 SY | BBO Regulus |  | |  |
-SY | BBO (S through X) | (See Strings Pro instead) |  | N/A  | |
-SY | BBO Ymir | Children's choir                | |  |
-SY | BBO Zodiac | Violins                           | | ❔❔❔ | ✴
-SY | BBO Zodiac | Violas                             | |  | ✴
-SY | BBO Zodiac | Cellos                           | | ❔❔❔ | ✴
-SY | BBO Zodiac | Double basses               | | ❔❔❔  | ✴
-SY | BBO Zodiac | Strings                        |  | ❔❔❔  |
-SY | BBO Zodiac | Horns                          |     | ❔❔❔  | ✴
-SY | BBO Zodiac | Epic Legato                  |    |   | ✴
+SY | BBO (S through X) | (See Strings Pro instead) |  | N/A | |
+SY | BBO Ymir | Children's choir                | |  | ✴✴
+SY | BBO Zodiac | 1st Violins                     | 30 | ✅ | 
+SY | BBO Zodiac | 2nd Violins                     | 26 | ✅ | "
+SY | BBO Zodiac | Violas                            | 20 | ✅ | "
+SY | BBO Zodiac | Cellos                           | 22 | ✅ | 
+SY | BBO Zodiac | Double basses               | 14 | ✅  |
+SY | BBO Zodiac | All Strings                     | 112 |   |
+SY | BBO Zodiac | Horns                          | 12 | ✅  |
+SY | BBO Zodiac | Trombones                    | 9 | ✅  |
+SY | BBO Zodiac | Epic Legato                  |    |  ✅ |
 SY | Brass | Trumpet I, II                         | 1 | ✅ |
 SY | Brass | Trumpets                              | 4 | ✅ |
 SY | Brass | Trumpets                              | 6 | ✅ |
 SY | Brass | Horn I, II                              | 1 | ✅ |
-SY | Brass | ...                                         |  |  | ✴✴
+SY | Brass | ...                                         |  |  | ✴✴✴✴
 SY | Elite Strings | 1st Violin                     | 6 | ✅ |
 SY | Elite Strings | 2nd Violin                    | 5 | ✅ | " |
 SY | Elite Strings | Viola                           | 4 | ✅ | " |
@@ -65,18 +67,18 @@ SY | Elite Strings | Double bass                 | 3 | ✅ |
 SY | Elite Strings | Tutti compressed | 22 | 90% (needs slur) |
 SY | Elite Strings | Tutti full                       | 22 |  |
 SY | Elite Strings | Octaves                       | 22 |  |
-SY | Strings Pro | 1st Violins                     | 14 |  | ✴
-SY | Strings Pro | 2nd Violins                    | 10 |  | ✴
-SY | Strings Pro | Violas                           | 8 |  | ✴
-SY | Strings Pro | Cellos                           | 8 | ❔❔❔ | ✴
-SY | Strings Pro | Double basses               | 6 | ❔❔❔ | ✴
+SY | Strings Pro | 1st Violins                     | 14 |  | ✴✴✴✴
+SY | Strings Pro | 2nd Violins                    | 10 |  | ✴✴✴✴
+SY | Strings Pro | Violas                           | 8 |  | ✴✴✴✴
+SY | Strings Pro | Cellos                           | 8 | ❔❔❔ | ✴✴✴✴
+SY | Strings Pro | Double basses               | 6 | ❔❔❔ | ✴✴✴✴
 SY | Strings Pro | Tutti full range               |  |  |
 SY | Strings Pro | Tutti compressed range  |  |  |
 SY | Strings Pro | Octaves                        |  |  |
 SY | Drums | Bass Drum - Lefima 28         | | |
 SY | Drums | Roto Toms                          | | |
 SY | Drums | Taikos                                | | |
-SYd | Solo Strings | Violin F                    | 1 | 92% (wip) | ✴✴✴
+SYd | Solo Strings | Violin F                    | 1 | 92% (wip) | ✴✴✴✴
 SYd | Solo Strings | Viola F                     | 1 | ✅ |
 SYd | Solo Strings | Cello F                    | 1 | ✅ |
 SYd | Solo Strings | Double bass F          | 1 | ✅ |
@@ -92,10 +94,10 @@ SYd | Woodwinds | Basset horn               | 1 | ✅ |
 SYd | Woodwinds | Clarinet ensemble     | 3 | ✅ |
 SYd | Woodwinds | Bassoon ensemble    | 3 | ✅ |
 SYd | Woodwinds | Contrabass Clarinet   | 1 | ✅ |
-SYd | Dimension Strings | Violin             | 8 | 50% (wip) | ✴
-SYd | Dimension Strings | Viola             |  |  |
-SYd | Dimension Strings | Cello             |  |  |
-SYd | Dimension Strings | Bass             |  |  |
+SYd | Dimension Strings | Violin             | 8 | 50% (wip) | ✴✴✴
+SYd | Dimension Strings | Viola             |  |  | (violins first)
+SYd | Dimension Strings | Cello             |  |  | (violins first)
+SYd | Dimension Strings | Bass             |  |  | (violins first)
 SYd | Appassionata Strings | Violin         | 20 | ❔❔❔ |
 SYd | Appassionata Strings | 2nd Violin   | 20 |  |
 SYd | Appassionata Strings | Viola          | 14 |  |
@@ -140,5 +142,28 @@ I use only use directions, no attributes.
 I try to be complete with articulations so that there is a one to one mapping between Cubase articulation and VSL articulation, even though this is a very large number of articulations.  Exception:
  - Dimension strings: player selection
 
+## Guidelines
+
+### Group 1
+
+ - (primary articulation or articulation family)
+   - long
+   - short
+
+### Group 2
+
+### Group 3
+
+ - attack
+
+### Group 4
+
+ - release 
+ - layers
+  - fff
+   - without fff
+   - soft
+
+## Please give feedback
 If you want to discuss, contact me via email, create a github issue, or start a thread on [VSL forums](https://www.vsl.co.at/community/forums).
 
