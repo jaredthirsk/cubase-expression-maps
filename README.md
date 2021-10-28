@@ -83,9 +83,9 @@ SY | Strings Pro | Double basses               | 6 | ✅ |
 SY | Strings Pro | Tutti full range               |  |  |
 SY | Strings Pro | Tutti compressed range  |  |  |
 SY | Strings Pro | Octaves                        |  |  |
-SY | Drums | Bass Drum - Lefima 28         | | |
-SY | Drums | Roto Toms                          | | |
-SY | Drums | Taikos                                | | |
+SY | Drums | Bass Drum - Lefima 28         | 1 | ✅ |
+SY | Drums | Roto Toms                          | 1 | ✅ |
+SY | Drums | Taikos                                | | | ✴
 SYd | Solo Strings | Violin F                    | 1 | 92% (wip) | ✴✴✴✴
 SYd | Solo Strings | Viola F                     | 1 | ✅ |
 SYd | Solo Strings | Cello F                    | 1 | ✅ |
