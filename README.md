@@ -33,8 +33,8 @@ SY | BBO Hercules | Low brass                    | | ✅ |
 SY | BBO Izar |                                            | |  | ✴
 SY | BBO Jupiter |                                      | | ✅ |
 SY | BBO Kopernicus |                                | | ✅ |
-SY | BBO Lyra |                                         | | ❔❔❔ |  | ✴
-SY | BBO Musca |                                      | | ❔❔❔ |  | ✴
+SY | BBO Lyra |                                         | | ✅ |  | (needs group conformity)
+SY | BBO Musca |                                      | | ✅ |  | (needs group conformity)
 SY | BBO Neptune |                                   | |  |
 SY | BBO Orion | Flute                               | |  |
 SY | BBO Orion | Oboe                              | |  |
@@ -46,32 +46,41 @@ SY | BBO Regulus |  | |  |
 SY | BBO (S through X) | (See Strings Pro instead) |  | N/A | |
 SY | BBO Ymir | Children's choir                | |  | ✴✴
 SY | BBO Zodiac | 1st Violins                     | 30 | ✅ | 
-SY | BBO Zodiac | 2nd Violins                     | 26 | ✅ | "
-SY | BBO Zodiac | Violas                            | 20 | ✅ | "
+SY | BBO Zodiac | 2nd Violins                     | 26 | ⇧ |
+SY | BBO Zodiac | Violas                            | 20 | ⇧ |
 SY | BBO Zodiac | Cellos                           | 22 | ✅ | 
 SY | BBO Zodiac | Double basses               | 14 | ✅  |
 SY | BBO Zodiac | All Strings                     | 112 |   |
 SY | BBO Zodiac | Horns                          | 12 | ✅  |
 SY | BBO Zodiac | Trombones                    | 9 | ✅  |
-SY | BBO Zodiac | Epic Legato                  |    |  ✅ |
+SY | BBO Zodiac | Epic Legato                   |    |  ✅ |
 SY | Brass | Trumpet I, II                         | 1 | ✅ |
-SY | Brass | Trumpets                              | 4 | ✅ |
-SY | Brass | Trumpets                              | 6 | ✅ |
-SY | Brass | Horn I, II                              | 1 | ✅ |
-SY | Brass | ...                                         |  |  | ✴✴✴✴
+SY | Brass | 4 Trumpets                            | 4 | ✅ |
+SY | Brass | 6 Trumpets                            | 6 | ✅ |
+SY | Brass | Horn I, II                               | 1 | ✅ |
+SY | Brass | 6 Horns                                  | 6 |  | ✴✴✴
+SY | Brass | 12 Horns                                | 12 |  | ✴✴✴
+SY | Brass | Tenor trombone                      | 1 |  | ✴✴✴
+SY | Brass | Tenor trombones                     | 4 |  | ✴✴✴
+SY | Brass | Trombones                             | 9 |  | ✴✴✴
+SY | Brass | Bass trombone                       | 1 |  | ✴✴✴
+SY | Brass | Low Brass                              | 6 |  | ✴✴✴
+SY | Brass | Cimbasso                               | 1 |  | ✴✴✴
+SY | Brass | Bass tuba                              | 1 |  | ✴✴✴
+SY | Brass | Giant tutti brass                     | 28 | ✅ |
 SY | Elite Strings | 1st Violin                     | 6 | ✅ |
-SY | Elite Strings | 2nd Violin                    | 5 | ✅ | " |
-SY | Elite Strings | Viola                           | 4 | ✅ | " |
+SY | Elite Strings | 2nd Violin                    | 5 | ⇧ |
+SY | Elite Strings | Viola                           | 4 | ⇧ |
 SY | Elite Strings | Cello                           | 4 | ✅ |
 SY | Elite Strings | Double bass                 | 3 | ✅ |
 SY | Elite Strings | Tutti compressed | 22 | 90% (needs slur) |
 SY | Elite Strings | Tutti full                       | 22 |  |
 SY | Elite Strings | Octaves                       | 22 |  |
-SY | Strings Pro | 1st Violins                     | 14 |  | ✴✴✴✴
-SY | Strings Pro | 2nd Violins                    | 10 |  | ✴✴✴✴
-SY | Strings Pro | Violas                           | 8 |  | ✴✴✴✴
-SY | Strings Pro | Cellos                           | 8 | ❔❔❔ | ✴✴✴✴
-SY | Strings Pro | Double basses               | 6 | ❔❔❔ | ✴✴✴✴
+SY | Strings Pro | 1st Violins                     | 14 | ✅ |
+SY | Strings Pro | 2nd Violins                    | 10 | ⇧ |
+SY | Strings Pro | Violas                           | 8 | ⇧ |
+SY | Strings Pro | Cellos                           | 8 | ✅ |
+SY | Strings Pro | Double basses               | 6 | ✅ |
 SY | Strings Pro | Tutti full range               |  |  |
 SY | Strings Pro | Tutti compressed range  |  |  |
 SY | Strings Pro | Octaves                        |  |  |
