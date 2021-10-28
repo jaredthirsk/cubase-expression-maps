@@ -20,9 +20,8 @@ I've done more than this status table indicates, but best to assume the worst.
 
 |     | Series | Instrument | Size | Status | Comment/Priority |
 --- | --- | --- |:---:|:--:| --- |
-SY | BBO Andromeda |                                    | | 90% | ✴✴✴ needs piccolo switch |
-SY | BBO Andromeda Con Sordino                    | | 0% |  |
-SY | BBO Andromeda Free |                             | | ❔❔❔ |  |
+SY | BBO Andromeda |                                    | | ✅ |
+SY | BBO Andromeda Con Sordino                    | | ✅ |
 SY | BBO Black Eye  |                                   | 0% |  |
 SY | BBO Capricorn |                                    | |  |
 SY | BBO Dorado |                                      | | ❔❔❔ | |
@@ -120,6 +119,7 @@ SYd | Special Edition | T'bone c-bass |  | ❔❔❔ |
 SYd | Special Edition | ...  |  |  |
 VI | Special Edition | Trombone Ensemble |  | ❔❔❔ |
 VI | Special Edition | ... |  |  |
+SY | BBO Andromeda Free |                             | | ❔❔❔ |  |
 
 
 
