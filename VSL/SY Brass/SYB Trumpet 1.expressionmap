@@ -1,5 +1,5 @@
 <InstrumentMap>
-   <string name="name" value="SY Trumpet 1" wide="true" />
+   <string name="name" value="SYB Trumpet 1" wide="true" />
    <member name="slotvisuals">
       <int name="ownership" value="1" />
       <list name="obj" type="obj">
