@@ -57,15 +57,18 @@ SY | Brass | Trumpet I, II                         | 1 | ✅ |
 SY | Brass | 4 Trumpets                            | 4 | ✅ |
 SY | Brass | 6 Trumpets                            | 6 | ✅ |
 SY | Brass | Horn I, II                               | 1 | ✅ |
-SY | Brass | 6 Horns                                  | 6 |  | ✴✴✴
-SY | Brass | 12 Horns                                | 12 |  | ✴✴✴
-SY | Brass | Tenor trombone                      | 1 |  | ✴✴✴
-SY | Brass | Tenor trombones                     | 4 |  | ✴✴✴
-SY | Brass | Trombones                             | 9 |  | ✴✴✴
-SY | Brass | Bass trombone                       | 1 |  | ✴✴✴
-SY | Brass | Low Brass                              | 6 |  | ✴✴✴
-SY | Brass | Cimbasso                               | 1 |  | ✴✴✴
-SY | Brass | Bass tuba                              | 1 |  | ✴✴✴
+SY | Brass | 6 Horns                                  | 6 | ✅ |
+SY | Brass | 12 Horns                                | 12 | ✅|
+SY | Brass | Tenor trombone                      | 1 | ✅ |
+SY | Brass | Tenor trombones                     | 4 | ✅ |
+SY | Brass | Trombones                             | 9 | ✅ |
+SY | Brass | Bass trombone                       | 1 | ✅ |
+SY | Brass | Low Brass: 5pl. (4 BTb+Tu)     | 5 |  | ✴✴✴✴✴
+SY | Brass | Low Brass: 5 players + CTu     | 6 |  | ✴✴✴✴✴
+SY | Brass | Low Brass: 6 player clusters    | 6 |  |
+SY | Brass | Low Brass: Reg FX clusters      | 6 |  |
+SY | Brass | Cimbasso                               | 1 | ✅ |
+SY | Brass | Bass tuba                              | 1 | ✅ |
 SY | Brass | Giant tutti brass                     | 28 | ✅ |
 SY | Elite Strings | 1st Violin                     | 6 | ✅ |
 SY | Elite Strings | 2nd Violin                    | 5 | ⇧ |
@@ -88,7 +91,7 @@ SY | Drums | Roto Toms                          | 1 | ✅ |
 SY | Drums | Taikos                                | | | ✴
 SYd | Solo Strings | Violin F                    | 1 | 92% (wip) | ✴✴✴✴
 SYd | Solo Strings | Viola F                     | 1 | ✅ |
-SYd | Solo Strings | Cello F                    | 1 | ✅ |
+SYd | Solo Strings | Cello F                    | 1 | ✅ | something is occupying C4
 SYd | Solo Strings | Double bass F          | 1 | ✅ |
 SYd | Woodwinds | (all)                          |  | ✅ |
 SYd | Woodwinds | Alto flute                   | 1 | ✅ |
@@ -164,6 +167,7 @@ I try to be complete with articulations so that there is a one to one mapping be
 ### Group 3
 
  - attack
+ - normal  (TODO: rename all normal2's to normal, since there is never any normal in group 1)
 
 ### Group 4
 
