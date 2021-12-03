@@ -91,7 +91,7 @@ SY | Drums | Roto Toms                          | 1 | ✅ |
 SY | Drums | Taikos                                | | | ✴
 SYd | Solo Strings | Violin I F                    | 1 | 93% | wip ✴✴✴✴
 SYd | Solo Strings | Violin II F                    | 1 | 0% | ✴
-SYd | Solo Strings | Viola F                     | 1 | ❔❔❔ |
+SYd | Solo Strings | Viola F                     | 1 | 90% |
 SYd | Solo Strings | Cello F                    | 1 | ✅ | something is occupying C4
 SYd | Solo Strings | Double bass F          | 1 | ✅ |
 SYd | Woodwinds | (all)                          |  | ✅ |
@@ -118,7 +118,10 @@ SYd | Appassionata Strings | Double bass    | 10 | ✅ |
 SYd | Appassionata Strings | all                  |  |  |
 Smart | Smart Hits | |  |  |
 Smart | Smart Spheres | |  |  |
-SYd | Special Edition | Orch. cellos | | ❔❔❔ |
+SYd | Special Edition Plus | Orch. violins | 14 | ❔❔❔ |
+SYd | Special Edition Plus | Orch. violas | 10 | ❔❔❔ |
+SYd | Special Edition Plus | Orch. cellos | 8 | 60% | up to tremolo articulation
+SYd | Special Edition Plus | Orch. double basses | 6 | ❔❔❔ |
 SYd | Special Edition | T'bone c-bass |  | ❔❔❔ |
 SYd | Special Edition | ...  |  |  |
 VI | Special Edition | Trombone Ensemble |  | ❔❔❔ |
