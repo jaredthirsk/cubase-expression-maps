@@ -70,7 +70,7 @@ SY | Brass | Low Brass: Reg FX clusters      | 6 |  |
 SY | Brass | Cimbasso                               | 1 | ✅ |
 SY | Brass | Bass tuba                              | 1 | ✅ |
 SY | Brass | Giant tutti brass                     | 28 | ✅ |
-SY | Elite Strings | 1st Violin                     | 6 | ✅ |
+SY | Elite Strings | 1st Violin                     | 6 | 92% | missing some sustains
 SY | Elite Strings | 2nd Violin                    | 5 | ⇧ |
 SY | Elite Strings | Viola                           | 4 | ⇧ |
 SY | Elite Strings | Cello                           | 4 | ✅ |
@@ -121,7 +121,7 @@ Smart | Smart Spheres | |  |  |
 SYd | Special Edition Plus | Orch. violins | 14 | ❔❔❔ |
 SYd | Special Edition Plus | Orch. violas | 10 | ❔❔❔ |
 SYd | Special Edition Plus | Orch. cellos | 8 | 60% | up to tremolo articulation
-SYd | Special Edition Plus | Orch. double basses | 6 | ❔❔❔ |
+SYd | Special Edition Plus | Orch. double basses | 6 | 0% | needs transpose from cellos
 SYd | Special Edition | T'bone c-bass |  | ❔❔❔ |
 SYd | Special Edition | ...  |  |  |
 VI | Special Edition | Trombone Ensemble |  | ❔❔❔ |
