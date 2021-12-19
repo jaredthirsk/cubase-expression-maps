@@ -89,10 +89,10 @@ SY | Strings Pro | Octaves                        |  |  |
 SY | Drums | Bass Drum - Lefima 28         | 1 | ✅ |
 SY | Drums | Roto Toms                          | 1 | ✅ |
 SY | Drums | Taikos                                | | | ✴
-SYd | Solo Strings | Violin I F                    | 1 | 93% | wip ✴✴✴✴
+SYd | Solo Strings | Violin I F                    | 1 | 99% | (except scale runs)
 SYd | Solo Strings | Violin II F                    | 1 | 0% | ✴
-SYd | Solo Strings | Viola F                     | 1 | 90% |
-SYd | Solo Strings | Cello F                    | 1 | ✅ | something is occupying C4
+SYd | Solo Strings | Viola F                     | 1 | 90% | (needs review)
+SYd | Solo Strings | Cello F                    | 1 | ✅ | (needs review) something is occupying C4
 SYd | Solo Strings | Double bass F          | 1 | ✅ |
 SYd | Woodwinds | (all)                          |  | ✅ |
 SYd | Woodwinds | Alto flute                   | 1 | ✅ |
