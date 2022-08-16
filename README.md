@@ -63,8 +63,8 @@ SY | Brass | Tenor trombone                      | 1 | ✅ |
 SY | Brass | Tenor trombones                     | 4 | ✅ |
 SY | Brass | Trombones                             | 9 | ✅ |
 SY | Brass | Bass trombone                       | 1 | ✅ |
-SY | Brass | Low Brass: 5pl. (4 BTb+Tu)     | 5 | ✅ |
-SY | Brass | Low Brass: 5 players + CTu     | 6 | ✅ |
+SY | Brass | Low Brass: 5pl. (4 BTb+Tu)     | 5 | ✅ | To setup: delete inapplicable articulations in first column 
+SY | Brass | Low Brass: 5 players + CTu     | 6 | ✅ | To setup: delete inapplicable articulations in first column
 SY | Brass | Low Brass: 6 player clusters    | 6 |  |
 SY | Brass | Low Brass: Reg FX clusters      | 6 |  |
 SY | Brass | Cimbasso                               | 1 | ✅ |
