@@ -20,7 +20,7 @@ I've done more than this status table indicates, but best to assume the worst.
 
 |     | Series | Instrument | Size | Status | Comment/Priority |
 --- | --- | --- |:---:|:--:| --- |
-SY | BBO Altair | (Delete all but one slot in 1st column)                                      | | OK | 
+SY | BBO Altair | (Delete all but one slot in 1st column)                                      | | ✅ | 
 SY | BBO Andromeda |                                    | | ✅ |
 SY | BBO Andromeda Con Sordino                    | | ✅ |
 SY | BBO Black Eye  |                                   | 0% |  |
