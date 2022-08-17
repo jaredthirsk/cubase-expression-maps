@@ -20,6 +20,7 @@ I've done more than this status table indicates, but best to assume the worst.
 
 |     | Series | Instrument | Size | Status | Comment/Priority |
 --- | --- | --- |:---:|:--:| --- |
+SY | BBO Altair | (Delete all but one slot in 1st column)                                      | | OK | 
 SY | BBO Andromeda |                                    | | ✅ |
 SY | BBO Andromeda Con Sordino                    | | ✅ |
 SY | BBO Black Eye  |                                   | 0% |  |
@@ -63,8 +64,8 @@ SY | Brass | Tenor trombone                      | 1 | ✅ |
 SY | Brass | Tenor trombones                     | 4 | ✅ |
 SY | Brass | Trombones                             | 9 | ✅ |
 SY | Brass | Bass trombone                       | 1 | ✅ |
-SY | Brass | Low Brass: 5pl. (4 BTb+Tu)     | 5 | ✅ |
-SY | Brass | Low Brass: 5 players + CTu     | 6 | ✅ |
+SY | Brass | Low Brass: 5pl. (4 BTb+Tu)     | 5 | ✅ | To setup: delete inapplicable articulations in first column 
+SY | Brass | Low Brass: 5 players + CTu     | 6 | ✅ | To setup: delete inapplicable articulations in first column
 SY | Brass | Low Brass: 6 player clusters    | 6 |  |
 SY | Brass | Low Brass: Reg FX clusters      | 6 |  |
 SY | Brass | Cimbasso                               | 1 | ✅ |
