@@ -194,6 +194,7 @@ If you want to discuss, contact me via email, create a github issue, or start a 
 # TODO
 
  - [ ] My standards shifted a bit while I made these.  So standardize my names for articulation/direction and slot names.  (Look at VSL's names.)
+ - [ ] Order all the directions in a sensible way (use the typical ordering within Synchron Player)
 
 # Misc
 
