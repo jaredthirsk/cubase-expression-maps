@@ -90,11 +90,11 @@ SY | Strings Pro | Octaves                        |  |  |
 SY | Drums | Bass Drum - Lefima 28         | 1 | ✅ |
 SY | Drums | Roto Toms                          | 1 | ✅ |
 SY | Drums | Taikos                                | | | ✴
-SYd | Solo Strings | Violin I F                    | 1 | 99% | (except scale runs)
+SYd | Solo Strings | Violin I F                    | 1 | 94% | see notes‡
 SYd | Solo Strings | Violin II F                    | 1 | 0% | ✴
-SYd | Solo Strings | Viola F                     | 1 | 90% | (needs review)
-SYd | Solo Strings | Cello F                    | 1 | ✅ | (needs review) something is occupying C4
-SYd | Solo Strings | Double bass F          | 1 | ✅ |
+SYd | Solo Strings | Viola F                     | 1 | 97% | (needs review, missing CC3 vibrato support)
+SYd | Solo Strings | Cello F                    | 1 | 97% | (needs review, missing CC3 vibrato support) something is occupying C4
+SYd | Solo Strings | Double bass F          | 1 | 97% | (missing CC3 vibrato support)
 SYd | Woodwinds | (all)                          |  | ✅ |
 SYd | Woodwinds | Alto flute                   | 1 | ✅ |
 SYd | Woodwinds | Flute ensemble          | 3 | ✅ |
@@ -131,7 +131,13 @@ SY | BBO Andromeda Free |                             | | ❔❔❔ |  |
 
 
 
-Heads up: I'm on an old version of Cubase at the moment: 6.0.7.  (I don't know of any changes or compatibility issues with the expression map files.  There's a bug in the expression map editor: if there are a ton of articulations, you cannot drag an articulation below a certain point in the editor.  I'm thinking of upgrading Cubase for the bezier curves in MIDI CC lanes.)
+# ‡ Notes and Limitations
+
+## Solo Violin
+
+Not supported:
+ - Dynamics: articulations for CC3 vibrato switch (not sure how to do these -- I ran out of groups)
+ - Scale runs (not worth it?)
 
 # Setup instructions
 
@@ -184,4 +190,13 @@ I try to be complete with articulations so that there is a one to one mapping be
 
 ## Please give feedback
 If you want to discuss, contact me via email, create a github issue, or start a thread on [VSL forums](https://www.vsl.co.at/community/forums).
+
+# TODO
+
+ - [ ] My standards shifted a bit while I made these.  So standardize my names for articulation/direction and slot names.  (Look at VSL's names.)
+ - [ ] Order all the directions in a sensible way (use the typical ordering within Synchron Player)
+
+# Misc
+
+ - My Cubase version: 12.0.40
 
