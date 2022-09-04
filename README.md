@@ -131,7 +131,13 @@ SY | BBO Andromeda Free |                             | | ❔❔❔ |  |
 
 
 
-Heads up: I'm on an old version of Cubase at the moment: 6.0.7.  (I don't know of any changes or compatibility issues with the expression map files.  There's a bug in the expression map editor: if there are a ton of articulations, you cannot drag an articulation below a certain point in the editor.  I'm thinking of upgrading Cubase for the bezier curves in MIDI CC lanes.)
+# ‡ Notes and Limitations
+
+## Solo Violin
+
+Not supported:
+ - Dynamics: articulations for CC3 vibrato switch (not sure how to do these -- I ran out of groups)
+ - Scale runs (not worth it?)
 
 # Setup instructions
 
@@ -149,14 +155,6 @@ Heads up: I'm on an old version of Cubase at the moment: 6.0.7.  (I don't know o
  - SYE - Synchron Elite Strings
  - SYP - Synchron Strings Pro
  - VI - Vienna Instruments
-
-# ‡ Notes and Limitations
-
-## Solo Violin
-
-Not supported:
- - Dynamics: articulations for CC3 vibrato switch (not sure how to do these -- I ran out of groups)
- - Scale runs (not worth it?)
 
 # How to design these❔❔❔
 
@@ -192,4 +190,12 @@ I try to be complete with articulations so that there is a one to one mapping be
 
 ## Please give feedback
 If you want to discuss, contact me via email, create a github issue, or start a thread on [VSL forums](https://www.vsl.co.at/community/forums).
+
+# TODO
+
+ - [ ] My standards shifted a bit while I made these.  So standardize my names for articulation/direction and slot names.  (Look at VSL's names.)
+
+# Misc
+
+ - My Cubase version: 12.0.40
 
