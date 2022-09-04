@@ -90,7 +90,7 @@ SY | Strings Pro | Octaves                        |  |  |
 SY | Drums | Bass Drum - Lefima 28         | 1 | ✅ |
 SY | Drums | Roto Toms                          | 1 | ✅ |
 SY | Drums | Taikos                                | | | ✴
-SYd | Solo Strings | Violin I F                    | 1 | 94% | (except scale runs, partial CC3 vibrato support)
+SYd | Solo Strings | Violin I F                    | 1 | 94% | see notes‡
 SYd | Solo Strings | Violin II F                    | 1 | 0% | ✴
 SYd | Solo Strings | Viola F                     | 1 | 97% | (needs review, missing CC3 vibrato support)
 SYd | Solo Strings | Cello F                    | 1 | 97% | (needs review, missing CC3 vibrato support) something is occupying C4
@@ -149,6 +149,14 @@ Heads up: I'm on an old version of Cubase at the moment: 6.0.7.  (I don't know o
  - SYE - Synchron Elite Strings
  - SYP - Synchron Strings Pro
  - VI - Vienna Instruments
+
+# ‡ Notes and Limitations
+
+## Solo Violin
+
+Not supported:
+ - Dynamics: articulations for CC3 vibrato switch (not sure how to do these -- I ran out of groups)
+ - Scale runs (not worth it?)
 
 # How to design these❔❔❔
 
