@@ -3,13 +3,17 @@ Expression Maps for Cubase
 
 These are some Cubase expression maps (articulations) I put together for myself for Vienna Symphonic Library.  
 
-These are time consuming to make so if I can help others avoid having to do this, I am happy to share with no strings attached.  If you're really grateful for this, you can                     [buy me a coffee](https://www.buymeacoffee.com/jaredthirsk).
+VSL has official expression maps that you may want to check out first.  I am still making my own because I am more ambitious, and am making an effort to do the bulk of massive articulation sets like the Solo Strings.  Note that this can result in so many articulations that in Cubase you either need a vertical or 4K monitor in order to be able to work with the articulation maps in the Key Editor, or else drag to expand and contract the key editor every time you want to view/edit articulations.
+
+## Tip jar
+
+These are time consuming to make so if I can help others avoid having to do this, I am happy to share with no strings attached.  If you're really grateful for this, you can [buy me a coffee](https://www.buymeacoffee.com/jaredthirsk).
 
 [![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/jaredthirsk)
 
 ## See also: a fledgling editor
 
-Mostly for programmers at this point, and it is still partially a manual process and only automates a few things: [cubase-expression-map-editor](https://github.com/jaredthirsk/cubase-expression-map-editor)
+Mostly for programmers at this point, and it is still partially a manual process and only automates a few things, like mass-transposing, or automated articulation names: [cubase-expression-map-editor](https://github.com/jaredthirsk/cubase-expression-map-editor)
 
 ## Status
 
@@ -90,7 +94,7 @@ SY | Strings Pro | Octaves                        |  |  |
 SY | Drums | Bass Drum - Lefima 28         | 1 | ✅ |
 SY | Drums | Roto Toms                          | 1 | ✅ |
 SY | Drums | Taikos                                | | | ✴
-SYd | Solo Strings | Violin I F                    | 1 | 94% | see notes‡
+SYd | Solo Strings | Violin I F                    | 1 | 98% | see notes‡
 SYd | Solo Strings | Violin II F                    | 1 | 0% | ✴
 SYd | Solo Strings | Viola F                     | 1 | 97% | (needs review, missing CC3 vibrato support)
 SYd | Solo Strings | Cello F                    | 1 | 97% | (needs review, missing CC3 vibrato support) something is occupying C4
@@ -137,9 +141,6 @@ SY | BBO Andromeda Free |                             | | ❔❔❔ |  |
 Not supported:
  - Scale runs (not worth it?)
 
-TODO:
- - [ ] Crescendo/Dimuendo: change to group 3, replace soft with "crescendo soft" and finish articulations for dynamics+vibrato
- 
 # Setup instructions
 
 ## Dimension Strings
