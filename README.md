@@ -130,15 +130,16 @@ VI | Special Edition | ... |  |  |
 SY | BBO Andromeda Free |                             | | ❔❔❔ |  |
 
 
-
 # ‡ Notes and Limitations
 
 ## Solo Violin
 
 Not supported:
- - Dynamics: articulations for CC3 vibrato switch (not sure how to do these -- I ran out of groups)
  - Scale runs (not worth it?)
 
+TODO:
+ - [ ] Crescendo/Dimuendo: change to group 3, replace soft with "crescendo soft" and finish articulations for dynamics+vibrato
+ 
 # Setup instructions
 
 ## Dimension Strings
