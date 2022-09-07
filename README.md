@@ -3,7 +3,7 @@ Expression Maps for Cubase
 
 These are some Cubase expression maps (articulations) I put together for myself for Vienna Symphonic Library.  
 
-VSL has official expression maps that you may want to check out first.  I am still making my own because I am more ambitious, and am making an effort to do the bulk of massive articulation sets like the Solo Strings.  Note that this can result in so many articulations that in Cubase you either need a vertical or 4K monitor in order to be able to work with the articulation maps in the Key Editor, or else drag to expand and contract the key editor every time you want to view/edit articulations.
+VSL has official expression maps that you may want to check out first.  I am still making my own because I am more ambitious in that I am making an effort to cover huge amounts of articulations such as are found in the Full presets of Solo Strings (aside from scale runs).  Note that this can result in so many articulations that in Cubase you either need a vertical or 4K monitor in order to be able to work with the articulation maps in the Key Editor, or else drag to expand and contract the key editor every time you want to view/edit articulations.
 
 ## Tip jar
 
