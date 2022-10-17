@@ -3,7 +3,7 @@ Expression Maps for Cubase
 
 These are some Cubase expression maps (articulations) I put together for myself for Vienna Symphonic Library.  
 
-VSL has official expression maps that you may want to check out first.  I am still making my own because I am more ambitious, and am making an effort to do the bulk of massive articulation sets like the Solo Strings.  Note that this can result in so many articulations that in Cubase you either need a vertical or 4K monitor in order to be able to work with the articulation maps in the Key Editor, or else drag to expand and contract the key editor every time you want to view/edit articulations.
+VSL has official expression maps that you may want to check out first.  I am still making my own because I am more ambitious in that I am making an effort to cover huge amounts of articulations such as are found in the Full presets of Solo Strings (aside from scale runs).  Note that this can result in so many articulations that in Cubase you either need a vertical or 4K monitor in order to be able to work with the articulation maps in the Key Editor, or else drag to expand and contract the key editor every time you want to view/edit articulations.
 
 ## Tip jar
 
@@ -22,8 +22,8 @@ My next focus: Solo Strings, Strings Pro, Elite Strings, and any BBO I'm missing
 
 I've done more than this status table indicates, but best to assume the worst.
 
-|     | Series | Instrument | Size | Status | Comment/Priority |
---- | --- | --- |:---:|:--:| --- |
+|     | Series | Instrument | Size | Status | Test % | Comment/Priority
+--- | --- | --- |:---:|:--:| --- | --- |
 SY | BBO Altair | (Delete all but one slot in 1st column)                                      | | ✅ | 
 SY | BBO Andromeda |                                    | | ✅ |
 SY | BBO Andromeda Con Sordino                    | | ✅ |
@@ -32,9 +32,9 @@ SY | BBO Capricorn |                                    | |  |
 SY | BBO Dorado |                                      | | ❔❔❔ | |
 SY | BBO Eridanus |                                      | |  |
 SY | BBO Fornax |                                      | |  |
-SY | BBO Ganymeade |                                  | |  | ✴
+SY | BBO Ganymeade |                                  | |  | | ✴
 SY | BBO Hercules | Low brass                    | | ✅ |
-SY | BBO Izar |                                            | |  | ✴
+SY | BBO Izar |                                            | |  | | ✴
 SY | BBO Jupiter |                                      | | ✅ |
 SY | BBO Kopernicus |                                | | ✅ |
 SY | BBO Lyra |                                         | | ✅ |  | (needs group conformity)
@@ -48,7 +48,7 @@ SY | BBO Phoenix |                                   | |  |
 SY | BBO Quasar |                                   | |  |
 SY | BBO Regulus |  | |  |
 SY | BBO (S through X) | (See Strings Pro instead) |  | N/A | |
-SY | BBO Ymir | Children's choir                | |  | ✴✴
+SY | BBO Ymir | Children's choir                | |  | | ✴✴
 SY | BBO Zodiac | 1st Violins                     | 30 | ✅ | 
 SY | BBO Zodiac | 2nd Violins                     | 26 | ⇧ |
 SY | BBO Zodiac | Violas                            | 20 | ⇧ |
@@ -68,37 +68,37 @@ SY | Brass | Tenor trombone                      | 1 | ✅ |
 SY | Brass | Tenor trombones                     | 4 | ✅ |
 SY | Brass | Trombones                             | 9 | ✅ |
 SY | Brass | Bass trombone                       | 1 | ✅ |
-SY | Brass | Low Brass: 5pl. (4 BTb+Tu)     | 5 | ✅ | To setup: delete inapplicable articulations in first column 
-SY | Brass | Low Brass: 5 players + CTu     | 6 | ✅ | To setup: delete inapplicable articulations in first column
+SY | Brass | Low Brass: 5pl. (4 BTb+Tu)     | 5 | ✅ | | To setup: delete inapplicable articulations in first column 
+SY | Brass | Low Brass: 5 players + CTu     | 6 | ✅ | | To setup: delete inapplicable articulations in first column
 SY | Brass | Low Brass: 6 player clusters    | 6 |  |
 SY | Brass | Low Brass: Reg FX clusters      | 6 |  |
 SY | Brass | Cimbasso                               | 1 | ✅ |
 SY | Brass | Bass tuba                              | 1 | ✅ |
 SY | Brass | Giant tutti brass                     | 28 | ✅ |
-SY | Elite Strings | 1st Violin                     | 6 | 92% | missing some sustains
+SY | Elite Strings | 1st Violin                     | 6 | 92% | | missing some sustains
 SY | Elite Strings | 2nd Violin                    | 5 | ⇧ |
 SY | Elite Strings | Viola                           | 4 | ⇧ |
 SY | Elite Strings | Cello                           | 4 | ✅ |
-SY | Elite Strings | Double bass                 | 3 | ✅ |
-SY | Elite Strings | Tutti compressed | 22 | 90% | needs slur
-SY | Elite Strings | Tutti full                       | 22 |  |
-SY | Elite Strings | Octaves                       | 22 |  |
-SY | Strings Pro | 1st Violins                     | 14 | ✅ |
-SY | Strings Pro | 2nd Violins                    | 10 | ⇧ |
-SY | Strings Pro | Violas                           | 8 | ⇧ |
-SY | Strings Pro | Cellos                           | 8 | ✅ |
-SY | Strings Pro | Double basses               | 6 | ✅ |
-SY | Strings Pro | Tutti full range               |  |  |
-SY | Strings Pro | Tutti compressed range  |  |  |
+SY | Elite Strings | Double bass                     | 3 | ✅ |
+SY | Elite Strings | Tutti compressed                | 22 | 90% | | needs slur
+SY | Elite Strings | Tutti full                      | 22 |  |
+SY | Elite Strings | Octaves                         | 22 |  |
+SY | Strings Pro | 1st Violins                       | 14 | ✅ |
+SY | Strings Pro | 2nd Violins                       | 10 | ⇧ |
+SY | Strings Pro | Violas                            | 8 | ⇧ |
+SY | Strings Pro | Cellos                            | 8 | ✅ |
+SY | Strings Pro | Double basses                     | 6 | ✅ |
+SY | Strings Pro | Tutti full range                  |  |  |
+SY | Strings Pro | Tutti compressed range            |  |  |
 SY | Strings Pro | Octaves                        |  |  |
-SY | Drums | Bass Drum - Lefima 28         | 1 | ✅ |
-SY | Drums | Roto Toms                          | 1 | ✅ |
-SY | Drums | Taikos                                | | | ✴
-SYd | Solo Strings | Violin I F                    | 1 | 98% | see notes‡
-SYd | Solo Strings | Violin II F                    | 1 | 0% | ✴
-SYd | Solo Strings | Viola F                     | 1 | 97% | (needs review, missing CC3 vibrato support)
-SYd | Solo Strings | Cello F                    | 1 | 97% | (needs review, missing CC3 vibrato support) something is occupying C4
-SYd | Solo Strings | Double bass F          | 1 | 97% | (missing CC3 vibrato support)
+SY | Drums | Bass Drum - Lefima 28                   | 1 | ✅ |
+SY | Drums | Roto Toms                               | 1 | ✅ |
+SY | Drums | Taikos                                | | | | ✴
+SYd | Solo Strings | Violin I F                    | 1 | 98% | 14% | see notes‡
+SYd | Solo Strings | Violin II F                   | 1 | 0%  |    | ✴
+SYd | Solo Strings | Viola F                       | 1 | 97% |    | (needs review, missing CC3 vibrato support)
+SYd | Solo Strings | Cello F                       | 1 | 97% |    | (needs review, missing CC3 vibrato support) something is occupying C4
+SYd | Solo Strings | Double bass F                 | 1 | 97% |    | (missing CC3 vibrato support)
 SYd | Woodwinds | (all)                          |  | ✅ |
 SYd | Woodwinds | Alto flute                   | 1 | ✅ |
 SYd | Woodwinds | Flute ensemble          | 3 | ✅ |
@@ -111,10 +111,10 @@ SYd | Woodwinds | Basset horn               | 1 | ✅ |
 SYd | Woodwinds | Clarinet ensemble     | 3 | ✅ |
 SYd | Woodwinds | Bassoon ensemble    | 3 | ✅ |
 SYd | Woodwinds | Contrabass Clarinet   | 1 | ✅ |
-SYd | Dimension Strings | Violin             | 8 | 50% (wip) | ✴✴✴
-SYd | Dimension Strings | Viola             |  |  | (violins first)
-SYd | Dimension Strings | Cello             |  |  | (violins first)
-SYd | Dimension Strings | Bass             |  |  | (violins first)
+SYd | Dimension Strings | Violin             | 8 | 50% (wip) | | ✴✴✴
+SYd | Dimension Strings | Viola             |  |  | | (violins first)
+SYd | Dimension Strings | Cello             |  |  | | (violins first)
+SYd | Dimension Strings | Bass             |  |  | | (violins first)
 SYd | Appassionata Strings | Violin         | 20 | ❔❔❔ |
 SYd | Appassionata Strings | 2nd Violin   | 20 |  |
 SYd | Appassionata Strings | Viola          | 14 |  |
@@ -125,8 +125,8 @@ Smart | Smart Hits | |  |  |
 Smart | Smart Spheres | |  |  |
 SYd | Special Edition Plus | Orch. violins | 14 | ❔❔❔ |
 SYd | Special Edition Plus | Orch. violas | 10 | ❔❔❔ |
-SYd | Special Edition Plus | Orch. cellos | 8 | 60% | up to tremolo articulation
-SYd | Special Edition Plus | Orch. double basses | 6 | 0% | needs transpose from cellos
+SYd | Special Edition Plus | Orch. cellos | 8 | 60% | | up to tremolo articulation
+SYd | Special Edition Plus | Orch. double basses | 6 | 0% | | needs transpose from cellos
 SYd | Special Edition | T'bone c-bass |  | ❔❔❔ |
 SYd | Special Edition | ...  |  |  |
 VI | Special Edition | Trombone Ensemble |  | ❔❔❔ |
