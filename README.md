@@ -91,13 +91,13 @@ SY | Strings Pro | Double basses                     | 6 | ✅ |
 SY | Strings Pro | Tutti full range                  |  |  |
 SY | Strings Pro | Tutti compressed range            |  |  |
 SY | Strings Pro | Octaves                        |  |  |
-SY | Drums | Bass Drum - Lefima 28                   | 1 | ✅ |
-SY | Drums | Roto Toms                               | 1 | ✅ |
-SY | Drums | Taikos                                | | | | ✴
-SYd | Solo Strings | Violin I F                    | 1 | 98% | 14% | see notes‡
-SYd | Solo Strings | Violin II F                   | 1 | 0%  |    | ✴
-SYd | Solo Strings | Viola F                       | 1 | 97% |    | (needs review, missing CC3 vibrato support)
-SYd | Solo Strings | Cello F                       | 1 | 97% |    | (needs review, missing CC3 vibrato support) something is occupying C4
+SY | Drums | Bass Drum - Lefima 28                   | 1 | ✅  |
+SY | Drums | Roto Toms                               | 1 | ✅  |
+SY | Drums | Taikos                                  | 1 | ✅  |    |
+SYd | Solo Strings | Violin I F                      | 1 | 98% | 14% | see notes‡
+SYd | Solo Strings | Violin II F                     | 1 | 0%  |    | ✴
+SYd | Solo Strings | Viola F                         | 1 | 97% |    | (needs review, missing CC3 vibrato support)
+SYd | Solo Strings | Cello F                         | 1 | 97% |    | (needs review, missing CC3 vibrato support) something is occupying C4
 SYd | Solo Strings | Double bass F                 | 1 | 97% |    | (missing CC3 vibrato support)
 SYd | Woodwinds | (all)                          |  | ✅ |
 SYd | Woodwinds | Alto flute                   | 1 | ✅ |
