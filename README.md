@@ -97,7 +97,7 @@ SY | Drums | Taikos                                  | 1 | ✅  |    |
 SYd | Solo Strings | Violin I F                      | 1 | 98% | 14% | see notes‡
 SYd | Solo Strings | Violin II F                     | 1 | 0%  |    | ✴
 SYd | Solo Strings | Viola F                         | 1 | 97% |    | (needs review, missing CC3 vibrato support)
-SYd | Solo Strings | Cello F                         | 1 | 97% |    | (needs review, missing CC3 vibrato support) something is occupying C4
+SYd | Solo Strings | Cello F                         | 1 | 97% |    | (needs review, missing senza/con sordino, missing CC3 vibrato support) something is occupying C4
 SYd | Solo Strings | Double bass F                 | 1 | 97% |    | (missing CC3 vibrato support)
 SYd | Woodwinds | (all)                          |  | ✅ |
 SYd | Woodwinds | Alto flute                   | 1 | ✅ |
