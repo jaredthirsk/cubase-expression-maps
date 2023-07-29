@@ -75,6 +75,14 @@ SY | Brass | Low Brass: Reg FX clusters      | 6 |  |
 SY | Brass | Cimbasso                               | 1 | ✅ |
 SY | Brass | Bass tuba                              | 1 | ✅ |
 SY | Brass | Giant tutti brass                     | 28 | ✅ |
+SY | Duality Strings | 1st Violin                     | 14 | 0% | |
+SY | Duality Strings | 2nd Violin                    | 12 | ⇧ |
+SY | Duality Strings | Viola                           | 10 | ⇧ |
+SY | Duality Strings | Cello                           | 10 | 0% |
+SY | Duality Strings | Double bass                     | 6 | 0% |
+SY | Duality Strings | Tutti compressed                | 52 | 0% | |
+SY | Duality Strings | Tutti full                      | 52 |  |
+SY | Duality Strings | Octaves                         | 52 |  |
 SY | Elite Strings | 1st Violin                     | 6 | 92% | | missing some sustains
 SY | Elite Strings | 2nd Violin                    | 5 | ⇧ |
 SY | Elite Strings | Viola                           | 4 | ⇧ |
